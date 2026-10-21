@@ -43,7 +43,10 @@ class AudioHapticFeedback implements WorkoutFeedback {
         iOS: AudioContextIOS(category: AVAudioSessionCategory.ambient),
       );
       for (final entry in _files.entries) {
-        final player = AudioPlayer();
+        // Position is never read. The default updater runs every frame from
+        // resume() until a completion event, which low-latency (SoundPool)
+        // players never send, so it would keep the app rendering forever.
+        final player = AudioPlayer()..positionUpdater = null;
         await player.setAudioContext(context);
         await player.setPlayerMode(PlayerMode.lowLatency);
         await player.setReleaseMode(ReleaseMode.stop);

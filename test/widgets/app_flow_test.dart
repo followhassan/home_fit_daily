@@ -128,6 +128,45 @@ void main() {
     expect(Repositories(store).sessions.all(), isEmpty);
   });
 
+  testWidgets('backgrounding the app mid-workout leaves no stale recovery card', (tester) async {
+    useScreen(tester, const Size(390, 844));
+    final store = InMemoryKeyValueStore();
+    await seedOnboarded(store);
+    await pumpApp(tester, testServices(store: store));
+
+    await tester.tap(find.text('Workouts').last);
+    await settle(tester);
+    await tester.enterText(find.byType(TextField).first, 'five-minute');
+    await settle(tester);
+    await tapText(tester, 'Five-Minute Starter');
+    await tapText(tester, 'Start workout');
+    await tapText(tester, 'Start workout');
+    await tapText(tester, 'Start now');
+
+    // The shell re-checks for interrupted sessions on resume, while the
+    // player (and its checkpoint) is still open.
+    for (final state in [
+      AppLifecycleState.inactive,
+      AppLifecycleState.hidden,
+      AppLifecycleState.paused,
+      AppLifecycleState.hidden,
+      AppLifecycleState.inactive,
+      AppLifecycleState.resumed,
+    ]) {
+      tester.binding.handleAppLifecycleStateChanged(state);
+    }
+    await settle(tester);
+
+    await tester.tap(find.byTooltip('Leave workout'));
+    await settle(tester);
+    await tapText(tester, 'Quit');
+    await tester.tap(find.byTooltip('Back'));
+    await settle(tester);
+    await tester.tap(find.text('Home').last);
+    await settle(tester);
+    expect(find.text('Unfinished workout'), findsNothing);
+  });
+
   testWidgets('custom workout builder explains validation errors', (tester) async {
     useScreen(tester, const Size(390, 844));
     final store = InMemoryKeyValueStore();

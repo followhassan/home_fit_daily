@@ -68,6 +68,9 @@ abstract final class WorkoutLauncher {
       enrollmentId: enrollmentId,
     );
     await Nav.push(context, PlayerScreen(launch: launch), fullscreenDialog: true);
+    // An app resume while the player was open may have picked up this
+    // session's own checkpoint; re-check now that it has been finalized.
+    recovery.refresh();
   }
 
   static Future<void> resume(BuildContext context, ActiveSessionCheckpoint checkpoint) async {
