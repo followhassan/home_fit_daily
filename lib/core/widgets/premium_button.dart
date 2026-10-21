@@ -1,8 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_animate/flutter_animate.dart';
+import 'package:flutter/services.dart';
 
 import '../constants/app_colors.dart';
+import '../theme/app_theme.dart';
 
+/// The app's primary call-to-action button (solid brand pink, or outlined).
+///
+/// Grows with large text instead of clipping, and shows a spinner while
+/// [loading] so repeated taps cannot submit twice.
 class PremiumButton extends StatelessWidget {
   const PremiumButton({
     super.key,
@@ -11,6 +16,7 @@ class PremiumButton extends StatelessWidget {
     this.icon,
     this.isOutlined = false,
     this.width,
+    this.loading = false,
   });
 
   final String label;
@@ -18,61 +24,59 @@ class PremiumButton extends StatelessWidget {
   final IconData? icon;
   final bool isOutlined;
   final double? width;
+  final bool loading;
 
   @override
   Widget build(BuildContext context) {
-    return SizedBox(
-      width: width,
-      child: Material(
-        color: Colors.transparent,
-        child: InkWell(
-          onTap: onPressed,
-          borderRadius: BorderRadius.circular(16),
-          child: Ink(
-            decoration: BoxDecoration(
-              gradient: isOutlined ? null : AppColors.primaryGradient,
-              borderRadius: BorderRadius.circular(16),
-              border: isOutlined
-                  ? Border.all(color: AppColors.premiumPink, width: 1.5)
-                  : null,
-              boxShadow: isOutlined
-                  ? null
-                  : [
-                      BoxShadow(
-                        color: AppColors.premiumPink.withValues(alpha: 0.3),
-                        blurRadius: 16,
-                        offset: const Offset(0, 6),
-                      ),
-                    ],
+    final enabled = onPressed != null && !loading;
+    final accent = context.palette.accentInk;
+    final content = Row(
+      mainAxisAlignment: MainAxisAlignment.center,
+      mainAxisSize: MainAxisSize.min,
+      children: [
+        if (loading)
+          SizedBox(
+            width: 20,
+            height: 20,
+            child: CircularProgressIndicator(
+              strokeWidth: 2.4,
+              color: isOutlined ? accent : AppColors.deepBlack,
             ),
-            child: Container(
-              padding: const EdgeInsets.symmetric(vertical: 16, horizontal: 24),
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.center,
-                mainAxisSize: MainAxisSize.min,
-                children: [
-                  if (icon != null) ...[
-                    Icon(
-                      icon,
-                      color: isOutlined ? AppColors.premiumPink : AppColors.white,
-                      size: 20,
-                    ),
-                    const SizedBox(width: 8),
-                  ],
-                  Text(
-                    label,
-                    style: TextStyle(
-                      color: isOutlined ? AppColors.premiumPink : AppColors.white,
-                      fontSize: 16,
-                      fontWeight: FontWeight.w600,
-                    ),
-                  ),
-                ],
-              ),
-            ),
+          )
+        else if (icon != null)
+          Icon(icon, size: 22),
+        if (loading || icon != null) const SizedBox(width: 10),
+        Flexible(
+          child: Text(
+            label,
+            textAlign: TextAlign.center,
+            style: const TextStyle(fontSize: 16, fontWeight: FontWeight.w700),
           ),
         ),
-      ),
-    ).animate().fadeIn(duration: 300.ms);
+      ],
+    );
+    void tap() {
+      HapticFeedback.lightImpact();
+      onPressed!();
+    }
+
+    final button = isOutlined
+        ? OutlinedButton(
+            onPressed: enabled ? tap : null,
+            style: OutlinedButton.styleFrom(
+              minimumSize: const Size(64, 52),
+              padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+            ),
+            child: content,
+          )
+        : ElevatedButton(
+            onPressed: enabled ? tap : null,
+            style: ElevatedButton.styleFrom(
+              minimumSize: const Size(64, 52),
+              padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+            ),
+            child: content,
+          );
+    return SizedBox(width: width, child: button);
   }
 }

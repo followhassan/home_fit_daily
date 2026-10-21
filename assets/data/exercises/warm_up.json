@@ -1,0 +1,251 @@
+{
+  "contentVersion": 1,
+  "items": [
+    {
+      "id": "march_in_place",
+      "name": "March in Place",
+      "description": "A gentle way to raise your heart rate and wake up the legs and hips before a workout.",
+      "category": "warm_up",
+      "difficulty": "beginner",
+      "primaryMuscles": ["hip_flexors"],
+      "secondaryMuscles": ["calves", "quadriceps", "glutes"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 60,
+      "perSide": false,
+      "setup": "Stand tall with your feet hip-width apart and your arms relaxed by your sides. Leave a little space around you.",
+      "steps": [
+        "Lift your right knee toward hip height while swinging your left arm forward.",
+        "Lower the right foot softly and lift the left knee, switching arms.",
+        "Keep alternating at a steady rhythm, landing quietly on the balls of your feet.",
+        "Gradually lift your knees a little higher and swing your arms more as you warm up."
+      ],
+      "breathing": "Breathe naturally. You should be able to talk comfortably while marching.",
+      "mistakes": [
+        "Leaning back to lift the knees higher.",
+        "Stomping down hard instead of placing the feet softly.",
+        "Holding the breath or tensing the shoulders."
+      ],
+      "easier": "Keep the knee lift small and hold a wall or chair back for balance.",
+      "harder": "Lift the knees to hip height and pump the arms faster while staying light on your feet.",
+      "cautions": [
+        "Hold onto something stable if your balance is unsteady."
+      ],
+      "mediaPath": "figure://march_in_place",
+      "tags": ["warm-up", "cardio", "low impact", "marching", "beginner", "standing"]
+    },
+    {
+      "id": "arm_circles",
+      "name": "Arm Circles",
+      "description": "Loosens the shoulders and upper back by moving the arms through gradually larger circles.",
+      "category": "warm_up",
+      "difficulty": "beginner",
+      "primaryMuscles": ["shoulders"],
+      "secondaryMuscles": ["upper_back"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Stand tall with feet hip-width apart. Raise your arms out to the sides at shoulder height, palms facing down.",
+      "steps": [
+        "Make small forward circles with straight arms, moving from the shoulders.",
+        "Slowly make the circles bigger over the first 10 to 15 seconds.",
+        "Halfway through, reverse the direction and circle backward.",
+        "Keep your neck relaxed and your ribs down throughout."
+      ],
+      "breathing": "Breathe slowly and steadily; avoid holding your breath.",
+      "mistakes": [
+        "Shrugging the shoulders up toward the ears.",
+        "Arching the lower back as the arms move.",
+        "Moving so fast that the circles become jerky."
+      ],
+      "easier": "Keep the circles small, or bend the elbows and circle the fingertips on the shoulders.",
+      "cautions": [
+        "Keep the movement comfortable; reduce the circle size if you feel pinching in the shoulder."
+      ],
+      "mediaPath": "figure://arm_circles",
+      "tags": ["warm-up", "shoulders", "mobility", "standing", "no equipment"]
+    },
+    {
+      "id": "shoulder_rolls",
+      "name": "Shoulder Rolls",
+      "description": "A simple way to release tension in the shoulders and upper back at the start of a workout or during a desk break.",
+      "category": "warm_up",
+      "difficulty": "beginner",
+      "primaryMuscles": ["upper_back"],
+      "secondaryMuscles": ["shoulders"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Stand or sit tall with your arms relaxed by your sides and your chin level.",
+      "steps": [
+        "Lift both shoulders up toward your ears.",
+        "Roll them back and gently squeeze the shoulder blades together.",
+        "Lower them down and then forward to complete the circle.",
+        "After about half the time, roll in the opposite direction."
+      ],
+      "breathing": "Breathe in as the shoulders lift and out as they roll back and down.",
+      "mistakes": [
+        "Rushing through small, tense circles.",
+        "Pushing the head forward.",
+        "Rolling in only one direction."
+      ],
+      "easier": "Do the movement seated and make smaller circles.",
+      "cautions": [
+        "Move within a comfortable range and stop if the movement causes neck pain."
+      ],
+      "mediaPath": "figure://shoulder_rolls",
+      "tags": ["warm-up", "desk break", "shoulders", "upper back", "posture", "seated"]
+    },
+    {
+      "id": "hip_circles",
+      "name": "Standing Hip Circles",
+      "description": "Mobilises the hips and lower back with slow circles, preparing them for squats, lunges and cardio.",
+      "category": "warm_up",
+      "difficulty": "beginner",
+      "primaryMuscles": ["glutes", "hip_flexors"],
+      "secondaryMuscles": ["lower_back", "obliques"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Stand with your feet a little wider than hip-width, knees soft, and your hands on your hips.",
+      "steps": [
+        "Shift your hips gently to the right, then forward, then left, then back, tracing a circle.",
+        "Keep your head and shoulders fairly still while the hips move.",
+        "Make the circles slow and smooth, gradually increasing their size.",
+        "Switch direction halfway through the set."
+      ],
+      "breathing": "Keep breathing easily throughout the movement.",
+      "mistakes": [
+        "Locking the knees.",
+        "Moving the whole upper body instead of the hips.",
+        "Forcing a range that feels uncomfortable in the lower back."
+      ],
+      "easier": "Make smaller circles and hold a chair back for balance.",
+      "cautions": [
+        "Keep the circles small and slow if your lower back is sensitive."
+      ],
+      "mediaPath": "figure://hip_circles",
+      "tags": ["warm-up", "hips", "mobility", "standing", "lower back"]
+    },
+    {
+      "id": "torso_rotations",
+      "name": "Standing Torso Rotations",
+      "description": "Gentle standing twists that warm up the spine and the muscles around the waist.",
+      "category": "warm_up",
+      "difficulty": "beginner",
+      "primaryMuscles": ["obliques"],
+      "secondaryMuscles": ["lower_back", "upper_back"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Stand with feet hip-width apart, knees slightly bent, and arms bent in front of your chest with elbows out to the sides.",
+      "steps": [
+        "Turn your upper body to the right and let your head follow.",
+        "Return through the centre and turn to the left.",
+        "Keep your hips facing forward, or let them pivot slightly for a gentler twist.",
+        "Use a smooth, controlled rhythm rather than swinging."
+      ],
+      "breathing": "Breathe out as you turn and in as you return to the centre.",
+      "mistakes": [
+        "Using momentum to fling the arms around.",
+        "Twisting further than is comfortable.",
+        "Holding the breath."
+      ],
+      "easier": "Reduce the range of the twist and let the hips and heels pivot with you.",
+      "cautions": [
+        "Move gently and within a pain-free range, especially if your back is sensitive."
+      ],
+      "mediaPath": "figure://torso_rotations",
+      "tags": ["warm-up", "spine", "rotation", "obliques", "desk break", "standing"]
+    },
+    {
+      "id": "leg_swings",
+      "name": "Leg Swings",
+      "description": "Dynamic front-to-back swings that loosen the hips and hamstrings before lower-body work.",
+      "category": "warm_up",
+      "difficulty": "beginner",
+      "primaryMuscles": ["hamstrings", "hip_flexors"],
+      "secondaryMuscles": ["glutes"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultDurationSeconds": 20,
+      "defaultReps": 10,
+      "secondsPerRep": 2,
+      "perSide": true,
+      "setup": "Stand side-on to a wall or sturdy chair and rest one hand on it for balance. Stand on the leg closest to the support.",
+      "steps": [
+        "Lift the outside foot slightly off the floor.",
+        "Swing the leg forward in a relaxed arc, then back behind you.",
+        "Start with small swings and let them grow as the hip loosens.",
+        "Complete the set, then turn around and swing the other leg."
+      ],
+      "breathing": "Breathe naturally and keep the swing rhythmic.",
+      "mistakes": [
+        "Kicking up forcefully at the end of the range.",
+        "Rounding the back to lift the leg higher.",
+        "Locking the knee of the standing leg."
+      ],
+      "easier": "Keep the swings small and slow.",
+      "harder": "Swing a little higher while keeping your torso upright and the standing leg steady.",
+      "cautions": [
+        "Always use support for balance.",
+        "Keep the swing controlled; it should never feel like a forced stretch."
+      ],
+      "mediaPath": "figure://leg_swings",
+      "tags": ["warm-up", "hips", "hamstrings", "dynamic stretch", "balance"]
+    },
+    {
+      "id": "inchworm",
+      "name": "Inchworm",
+      "description": "Walk the hands out to a plank and back to warm up the shoulders, core and the backs of the legs.",
+      "category": "warm_up",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["hamstrings", "shoulders"],
+      "secondaryMuscles": ["abs", "chest", "calves"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 5,
+      "secondsPerRep": 6,
+      "perSide": false,
+      "setup": "Stand tall with feet hip-width apart, with enough clear floor in front of you for a plank.",
+      "steps": [
+        "Hinge at the hips and place your hands on the floor in front of your feet, bending your knees as much as you need.",
+        "Walk your hands forward one at a time until you reach a high plank with shoulders over wrists.",
+        "Hold the plank briefly with your core braced.",
+        "Walk your hands back toward your feet and roll up to standing."
+      ],
+      "breathing": "Breathe out as you walk out, keep breathing in the plank, and breathe in as you roll up.",
+      "mistakes": [
+        "Letting the hips sag in the plank.",
+        "Walking the hands so far forward that the lower back arches.",
+        "Locking the knees while folding forward."
+      ],
+      "easier": "Bend the knees generously and walk the hands out only as far as you can control.",
+      "harder": "Add a push-up or one shoulder tap per side once you reach the plank.",
+      "cautions": [
+        "If your wrists are uncomfortable, make fists or place your hands on a raised surface.",
+        "Skip this exercise if folding forward causes lower-back pain."
+      ],
+      "mediaPath": "figure://inchworm",
+      "tags": ["warm-up", "full body", "hamstrings", "shoulders", "core", "plank"]
+    }
+  ]
+}

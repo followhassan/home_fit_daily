@@ -1,0 +1,151 @@
+{
+  "contentVersion": 1,
+  "items": [
+    {
+      "id": "getting_started_home_workouts",
+      "title": "Getting started with home workouts",
+      "category": "getting_started",
+      "summary": "What to expect in your first weeks, how much to do, and how to make home exercise feel manageable from day one.",
+      "reviewStatus": "unreviewed",
+      "tags": ["beginner", "start", "home", "first workout", "habit"],
+      "sections": [
+        {
+          "heading": "Start smaller than you think",
+          "paragraphs": [
+            "The most common reason people stop a new exercise routine is not a lack of willpower – it is starting with sessions that are too long, too hard or too frequent. A short workout you finish feels good and makes the next one easier to begin. A long workout you dread is easy to postpone.",
+            "For your first two weeks, aim for two or three sessions of 5 to 15 minutes. That may feel modest, but it gives your muscles, joints and schedule time to adapt. You can always add more once the routine feels settled."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "What a session looks like",
+          "paragraphs": [
+            "Most workouts in this app follow the same shape: a few minutes of warm-up to raise your temperature and loosen your joints, a main block of exercises, and a short cool-down. Exercises are either timed (for example 30 seconds of marching) or counted in repetitions (for example 10 squats). For counted exercises, the app waits for you to tap Done so you can move at your own pace."
+          ],
+          "bullets": [
+            "Read the instructions or open the technique sheet before an unfamiliar exercise.",
+            "Use the easier variation whenever an exercise feels too hard or uncomfortable.",
+            "Skipping an exercise is always allowed; it is recorded honestly as skipped."
+          ]
+        },
+        {
+          "heading": "What to expect afterwards",
+          "paragraphs": [
+            "Feeling warm, slightly out of breath and pleasantly tired is normal. Muscle soreness that appears a day or two later is also common when you try new movements, and it usually fades within a few days. It tends to lessen as your body gets used to the exercises.",
+            "Sharp pain, pain in a joint, chest discomfort, dizziness or unusual shortness of breath are different – those are signals to stop. The article \"Recognising when to stop\" explains these in more detail."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "A simple first week",
+          "paragraphs": [
+            "If you are not sure where to begin, try the Five-Minute Starter on day one, First Steps Full Body on day three, and an Evening Stretch on day five. Or enrol in the Beginner Home Fitness plan, which schedules every day for you, including rest days."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [
+        {"title": "WHO guidelines on physical activity and sedentary behaviour", "publisher": "World Health Organization", "year": 2020}
+      ],
+      "relatedArticles": ["workout_space", "warming_up", "building_consistency", "when_to_stop"],
+      "relatedExercises": ["march_in_place", "bodyweight_squat", "wall_push_up"],
+      "relatedWorkouts": ["five_minute_starter", "first_steps_full_body"]
+    },
+    {
+      "id": "workout_space",
+      "title": "Preparing a suitable workout space",
+      "category": "getting_started",
+      "summary": "You need far less space than you might think. A few checks make home workouts safer and more comfortable.",
+      "reviewStatus": "unreviewed",
+      "tags": ["space", "home", "safety", "floor", "equipment", "mat"],
+      "sections": [
+        {
+          "heading": "How much room you need",
+          "paragraphs": [
+            "Most bodyweight exercises fit in an area roughly the size of a yoga mat plus an arm's length around it. Stand in the middle and reach your arms out to the sides and overhead: if you touch nothing, you have enough room for standing exercises. For floor exercises such as planks and lunges, make sure you can lie down at full length with your arms stretched overhead."
+          ],
+          "bullets": [
+            "Check the ceiling and light fittings before overhead reaches or jumps.",
+            "Move furniture with sharp corners out of the way.",
+            "Keep pets and small children's toys out of your exercise area."
+          ]
+        },
+        {
+          "heading": "The floor",
+          "paragraphs": [
+            "A non-slip surface matters more than anything else. Rugs that slide on hard floors, polished wood in socks and loose cables are common causes of slips. Train barefoot on a grippy surface or wear supportive trainers.",
+            "For floor exercises a mat is comfortable but not essential – a folded towel or carpet works well. Exercises where a mat helps are marked \"mat recommended\" in the library. If you live above someone, low-impact workouts avoid jumping noise entirely."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Using household items safely",
+          "paragraphs": [
+            "Several exercises use a chair or a wall. Always use a sturdy chair without wheels, and push its back against a wall so it cannot slide. Test that it does not wobble before you put weight on it. For wall exercises, make sure your feet will not slip as you lean.",
+            "If you use resistance bands, check them for nicks and tears before each session and replace damaged bands. With dumbbells, choose a weight you can control for every repetition, and put them down carefully rather than dropping them."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Make it easy to begin",
+          "paragraphs": [
+            "Leaving your mat or shoes in a visible spot is a small cue that makes starting easier. Many people find that having a regular place and time for exercise removes a surprising amount of friction."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [],
+      "relatedArticles": ["getting_started_home_workouts", "low_impact_alternatives", "building_consistency"],
+      "relatedExercises": ["incline_push_up", "sit_to_stand", "wall_sit"],
+      "relatedWorkouts": ["chair_strength", "low_impact_cardio"]
+    },
+    {
+      "id": "realistic_goals",
+      "title": "Setting realistic goals",
+      "category": "getting_started",
+      "summary": "Goals you control – like how often you train – are more motivating and more reliable than goals about how your body looks.",
+      "reviewStatus": "unreviewed",
+      "tags": ["goals", "motivation", "planning", "habit", "mindset"],
+      "sections": [
+        {
+          "heading": "Focus on what you can control",
+          "paragraphs": [
+            "Outcome goals, such as reaching a particular body shape, depend on many things outside your control, including genetics, sleep, stress and health. Process goals describe actions you can take, such as \"three 15-minute workouts each week\" or \"stretch after every session\". Process goals are easier to measure and give you a win every time you complete them.",
+            "This app's weekly target is a process goal. You choose how many workouts per week feel realistic, and the app tracks whether you met it."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Make goals specific and modest",
+          "paragraphs": [
+            "\"Exercise more\" is hard to act on. \"Do the Desk Break routine at lunchtime on Monday, Wednesday and Friday\" is easy. A good starting goal feels almost too easy; you can raise it after a few successful weeks."
+          ],
+          "bullets": [
+            "Pick a number of sessions per week you are confident you can manage.",
+            "Choose the days and approximate times in advance.",
+            "Decide what you will do on a busy day – for example, a five-minute routine instead of nothing."
+          ]
+        },
+        {
+          "heading": "Expect progress to be uneven",
+          "paragraphs": [
+            "Some weeks will go well and others will not. Illness, travel and busy periods are part of life. A missed week does not erase what you have built; simply start again with your next planned session. Weekly consistency over several months matters far more than any single week.",
+            "Be cautious of programmes or claims that promise specific changes to your body by a certain date. Bodies respond to exercise at different rates, and many benefits of regular activity – such as better mood, energy and fitness – are not visible in a mirror."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Review every few weeks",
+          "paragraphs": [
+            "Every three or four weeks, look back at your history. If you met your target easily, consider adding a session or trying harder variations. If it was a struggle, reduce the target. Adjusting a goal is not failing at it; it is how you find a routine you can keep."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [],
+      "relatedArticles": ["building_consistency", "tracking_progress", "gradual_progression"],
+      "relatedExercises": [],
+      "relatedWorkouts": ["desk_break", "five_minute_starter"]
+    }
+  ]
+}

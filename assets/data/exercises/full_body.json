@@ -1,0 +1,228 @@
+{
+  "contentVersion": 1,
+  "items": [
+    {
+      "id": "squat_to_reach",
+      "name": "Squat to Overhead Reach",
+      "description": "A bodyweight squat finished with a long overhead reach, linking the legs, hips and upper back in one smooth movement.",
+      "category": "full_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["quadriceps", "glutes"],
+      "secondaryMuscles": ["shoulders", "upper_back", "hamstrings"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultDurationSeconds": 30,
+      "defaultReps": 10,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Stand with feet about shoulder-width apart, toes turned out slightly, and arms by your sides.",
+      "steps": [
+        "Sit your hips back and down into a comfortable squat, reaching your arms forward for balance.",
+        "Keep your chest lifted and your knees in line with your toes.",
+        "Press through your whole foot to stand up.",
+        "As you straighten, sweep both arms overhead and reach tall before lowering them."
+      ],
+      "breathing": "Breathe in as you lower and out as you stand and reach.",
+      "mistakes": [
+        "Letting the knees cave inward.",
+        "Lifting the heels off the floor.",
+        "Arching the lower back during the overhead reach."
+      ],
+      "easier": "Squat down to a chair seat behind you and reach only to shoulder height.",
+      "harder": "Pause for two seconds at the bottom of each squat.",
+      "cautions": [
+        "Squat only as deep as you can with your heels down and without knee pain."
+      ],
+      "mediaPath": "figure://squat_to_reach",
+      "tags": ["full body", "squat", "legs", "low impact", "beginner", "no equipment"]
+    },
+    {
+      "id": "burpee",
+      "name": "Burpee",
+      "description": "A demanding full-body move that combines a squat, a plank, a push-up and a jump.",
+      "category": "full_body",
+      "difficulty": "advanced",
+      "primaryMuscles": ["quadriceps", "chest"],
+      "secondaryMuscles": ["shoulders", "triceps", "abs", "glutes", "calves"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": false,
+      "execution": "reps",
+      "defaultDurationSeconds": 30,
+      "defaultReps": 8,
+      "secondsPerRep": 5,
+      "perSide": false,
+      "setup": "Stand with feet shoulder-width apart in a space with room for a plank and a jump. A non-slip floor is important.",
+      "steps": [
+        "Squat down and place your hands on the floor just in front of your feet.",
+        "Jump or step both feet back into a high plank.",
+        "Lower your chest to the floor for a push-up, then press back up.",
+        "Jump or step your feet back toward your hands.",
+        "Stand and jump up, reaching your arms overhead, then land softly."
+      ],
+      "breathing": "Breathe out as you push up and as you jump; breathe in on the way down.",
+      "mistakes": [
+        "Letting the hips sag when landing in the plank.",
+        "Landing heavily on straight legs.",
+        "Rushing so much that technique falls apart."
+      ],
+      "easier": "Use the Step-Back Burpee: step the feet back and forward, and skip the push-up and the jump.",
+      "harder": "Add a tuck jump at the top while keeping every landing soft and controlled.",
+      "cautions": [
+        "High impact: choose the step-back version if jumping bothers your joints.",
+        "Stop and rest if you feel dizzy or lightheaded."
+      ],
+      "mediaPath": "figure://burpee",
+      "tags": ["full body", "cardio", "high intensity", "plank", "jump", "advanced"]
+    },
+    {
+      "id": "step_back_burpee",
+      "name": "Step-Back Burpee",
+      "description": "A no-jump version of the burpee that still works the legs, core and shoulders while keeping impact low.",
+      "category": "full_body",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["quadriceps", "abs"],
+      "secondaryMuscles": ["shoulders", "chest", "glutes"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultDurationSeconds": 30,
+      "defaultReps": 8,
+      "secondsPerRep": 5,
+      "perSide": false,
+      "setup": "Stand with feet hip-width apart with clear floor space in front of you.",
+      "steps": [
+        "Squat down and place your hands flat on the floor, shoulder-width apart.",
+        "Step one foot back, then the other, into a high plank.",
+        "Hold the plank for a moment with your body in a straight line.",
+        "Step your feet back toward your hands one at a time.",
+        "Stand up tall and reach your arms overhead."
+      ],
+      "breathing": "Breathe out as you stand and reach, and keep breathing while in the plank.",
+      "mistakes": [
+        "Dropping the hips or lifting them high in the plank.",
+        "Rounding the back heavily when placing the hands down.",
+        "Holding the breath."
+      ],
+      "easier": "Place your hands on a sturdy chair seat or step instead of the floor.",
+      "harder": "Add a push-up in the plank, or progress to the full Burpee.",
+      "cautions": [
+        "Keep your wrists under your shoulders, and use fists if your wrists are uncomfortable."
+      ],
+      "mediaPath": "figure://step_back_burpee",
+      "tags": ["full body", "low impact", "cardio", "plank", "conditioning"]
+    },
+    {
+      "id": "bear_plank_hold",
+      "name": "Bear Plank Hold",
+      "description": "A hovering hands-and-knees hold that builds core and shoulder stability in very little space.",
+      "category": "full_body",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["abs", "shoulders"],
+      "secondaryMuscles": ["quadriceps", "hip_flexors"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 20,
+      "perSide": false,
+      "setup": "Start on hands and knees with hands under shoulders and knees under hips. Tuck your toes under.",
+      "steps": [
+        "Brace your core as if preparing for a gentle poke to the stomach.",
+        "Lift your knees about 2 to 5 cm (1 to 2 inches) off the floor.",
+        "Keep your back flat and your head in line with your spine.",
+        "Hold steady while breathing, then lower your knees gently."
+      ],
+      "breathing": "Take slow, controlled breaths throughout the hold.",
+      "mistakes": [
+        "Lifting the hips high instead of hovering the knees.",
+        "Letting the back round or sag.",
+        "Holding the breath."
+      ],
+      "easier": "Hold for shorter periods, lowering the knees to rest whenever you need to.",
+      "harder": "Lift one hand off the floor at a time without letting the hips shift.",
+      "cautions": [
+        "Use fists, or rest on your forearms, if your wrists are uncomfortable."
+      ],
+      "mediaPath": "figure://bear_plank_hold",
+      "tags": ["full body", "core", "shoulders", "isometric", "low impact", "quadruped"]
+    },
+    {
+      "id": "plank_to_down_dog",
+      "name": "Plank to Downward Dog",
+      "description": "Flows between a high plank and a downward-dog shape to work the shoulders and core while lengthening the backs of the legs.",
+      "category": "full_body",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["shoulders", "abs"],
+      "secondaryMuscles": ["hamstrings", "calves", "upper_back"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 8,
+      "secondsPerRep": 4,
+      "perSide": false,
+      "setup": "Begin in a high plank with hands under shoulders and feet hip-width apart.",
+      "steps": [
+        "Brace your core so your body forms a straight line from head to heels.",
+        "Push the floor away and lift your hips up and back into an upside-down V.",
+        "Let your head relax between your arms and ease your heels toward the floor.",
+        "Shift your weight forward and lower your hips back to the plank."
+      ],
+      "breathing": "Breathe out as you lift into the V and in as you return to the plank.",
+      "mistakes": [
+        "Sinking between the shoulder blades.",
+        "Rushing so the hips sag in the plank.",
+        "Locking the knees hard in the V shape."
+      ],
+      "easier": "Perform the movement from your knees, or keep the knees softly bent in the V.",
+      "harder": "Add a push-up each time you return to the plank.",
+      "cautions": [
+        "Rise slowly afterwards if head-down positions make you dizzy.",
+        "Use fists if your wrists are uncomfortable."
+      ],
+      "mediaPath": "figure://plank_to_down_dog",
+      "tags": ["full body", "shoulders", "core", "flow", "mobility"]
+    },
+    {
+      "id": "dumbbell_thruster",
+      "name": "Dumbbell Thruster",
+      "description": "A front squat that flows into an overhead press, working most major muscle groups in one movement.",
+      "category": "full_body",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["quadriceps", "shoulders"],
+      "secondaryMuscles": ["glutes", "triceps", "abs", "upper_back"],
+      "equipment": ["dumbbells"],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 10,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Hold a pair of light dumbbells at your shoulders, palms facing each other, with feet shoulder-width apart.",
+      "steps": [
+        "Brace your core and squat down until your thighs are about parallel to the floor, or as low as is comfortable.",
+        "Drive up through your feet to stand.",
+        "Use the momentum from standing to press the dumbbells straight overhead.",
+        "Lower the weights back to your shoulders with control before the next squat."
+      ],
+      "breathing": "Breathe in as you squat down and out as you stand and press.",
+      "mistakes": [
+        "Letting the elbows drop forward during the squat.",
+        "Arching the lower back at the top of the press.",
+        "Choosing weights that are too heavy to control overhead."
+      ],
+      "easier": "Separate the two moves – squat, then press – with a pause in between, or use lighter weights.",
+      "harder": "Use slightly heavier weights, or slow the lowering phase to three seconds.",
+      "cautions": [
+        "Make sure you have clear space overhead.",
+        "Skip the press if overhead movement causes shoulder pain."
+      ],
+      "mediaPath": "figure://dumbbell_thruster",
+      "tags": ["full body", "dumbbells", "strength", "squat", "press", "equipment"]
+    }
+  ]
+}

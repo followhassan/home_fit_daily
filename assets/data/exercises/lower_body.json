@@ -1,0 +1,625 @@
+{
+  "contentVersion": 1,
+  "items": [
+    {
+      "id": "bodyweight_squat",
+      "name": "Bodyweight Squat",
+      "description": "A fundamental movement that strengthens the legs and hips and makes everyday tasks like sitting and standing easier.",
+      "category": "lower_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["quadriceps", "glutes"],
+      "secondaryMuscles": ["hamstrings", "abs", "adductors"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultDurationSeconds": 30,
+      "defaultReps": 12,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Stand with feet about shoulder-width apart and toes turned slightly out. Hold your arms in front of you or clasp your hands at your chest.",
+      "steps": [
+        "Push your hips back and bend your knees to lower down, as if sitting into a chair.",
+        "Keep your chest lifted and your weight spread across your whole foot.",
+        "Lower until your thighs are about parallel to the floor, or as far as is comfortable.",
+        "Press through your feet to stand back up."
+      ],
+      "breathing": "Breathe in as you lower and out as you stand.",
+      "mistakes": [
+        "Letting the knees collapse inward.",
+        "Lifting the heels off the floor.",
+        "Rounding the back at the bottom."
+      ],
+      "easier": "Squat down to a chair behind you (Chair Sit-to-Stand) or reduce the depth.",
+      "harder": "Pause at the bottom for two seconds, or slow the lowering to three seconds.",
+      "cautions": [
+        "Keep the range pain-free for your knees and hips."
+      ],
+      "mediaPath": "figure://bodyweight_squat",
+      "tags": ["lower body", "squat", "legs", "glutes", "beginner", "no equipment"]
+    },
+    {
+      "id": "sit_to_stand",
+      "name": "Chair Sit-to-Stand",
+      "description": "Standing up from a chair and sitting back down with control – an excellent starting point for leg strength.",
+      "category": "lower_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["quadriceps", "glutes"],
+      "secondaryMuscles": ["hamstrings", "abs"],
+      "equipment": ["chair"],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 10,
+      "secondsPerRep": 4,
+      "perSide": false,
+      "setup": "Place a sturdy chair against a wall. Sit near the front edge with feet flat, hip-width apart and slightly behind your knees.",
+      "steps": [
+        "Cross your arms over your chest or reach them forward.",
+        "Lean your chest slightly forward and press through your feet to stand up tall.",
+        "Pause briefly when standing.",
+        "Push your hips back and lower yourself slowly to the chair."
+      ],
+      "breathing": "Breathe out as you stand and in as you sit.",
+      "mistakes": [
+        "Dropping heavily into the chair.",
+        "Swinging the arms to get up.",
+        "Letting the knees fall inward."
+      ],
+      "easier": "Use your hands on your thighs or the chair's armrests to help, or use a higher seat.",
+      "harder": "Hover just above the seat without sitting down, or use a lower chair.",
+      "cautions": [
+        "Use a stable chair that cannot slide or tip.",
+        "Stand up slowly if you feel lightheaded."
+      ],
+      "mediaPath": "figure://sit_to_stand",
+      "tags": ["lower body", "chair", "legs", "beginner", "balance", "low impact"]
+    },
+    {
+      "id": "reverse_lunge",
+      "name": "Reverse Lunge",
+      "description": "Stepping backward into a lunge strengthens each leg on its own while being gentler on the knees than forward lunges.",
+      "category": "lower_body",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["quadriceps", "glutes"],
+      "secondaryMuscles": ["hamstrings", "adductors", "calves"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 8,
+      "secondsPerRep": 4,
+      "perSide": true,
+      "setup": "Stand tall with feet hip-width apart and hands on your hips or reaching forward for balance.",
+      "steps": [
+        "Take a long step back with one foot, landing on the ball of that foot.",
+        "Bend both knees to lower your back knee toward the floor.",
+        "Keep your front knee over your ankle and your torso upright.",
+        "Push through your front foot to bring the back foot forward to standing.",
+        "Complete all repetitions on one side, then switch."
+      ],
+      "breathing": "Breathe in as you step back and lower, and out as you return.",
+      "mistakes": [
+        "Letting the front knee collapse inward.",
+        "Leaning far forward.",
+        "Taking such a short step that the front knee shoots forward."
+      ],
+      "easier": "Hold a wall or chair for balance and reduce the depth.",
+      "harder": "Pause at the bottom, or drive the knee up as you return to standing.",
+      "cautions": [
+        "Use support if your balance is unsteady.",
+        "Keep the movement pain-free for your knees."
+      ],
+      "mediaPath": "figure://reverse_lunge",
+      "tags": ["lower body", "lunge", "legs", "glutes", "balance", "single leg"]
+    },
+    {
+      "id": "split_squat",
+      "name": "Split Squat",
+      "description": "A stationary lunge that builds single-leg strength without stepping, which makes balance easier.",
+      "category": "lower_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["quadriceps", "glutes"],
+      "secondaryMuscles": ["hamstrings", "calves"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 8,
+      "secondsPerRep": 4,
+      "perSide": true,
+      "setup": "Stand in a staggered stance: one foot forward and the other about a stride back, resting on the ball of the foot. Hold a wall or chair if needed.",
+      "steps": [
+        "Keep most of your weight on the front foot and your torso tall.",
+        "Bend both knees to lower straight down until the back knee is close to the floor.",
+        "Keep the front knee in line with your toes.",
+        "Press through the front foot to rise. Complete the set, then switch legs."
+      ],
+      "breathing": "Breathe in as you lower and out as you rise.",
+      "mistakes": [
+        "Placing the feet in one line like a tightrope, which makes balancing hard.",
+        "Pushing up with the back leg.",
+        "Letting the front knee cave inward."
+      ],
+      "easier": "Lower only part of the way and hold onto support.",
+      "harder": "Progress to the Bulgarian Split Squat, or slow the lowering.",
+      "cautions": [
+        "Pad the floor under the back knee in case it touches down."
+      ],
+      "mediaPath": "figure://split_squat",
+      "tags": ["lower body", "split squat", "legs", "single leg", "beginner"]
+    },
+    {
+      "id": "lateral_lunge",
+      "name": "Lateral Lunge",
+      "description": "A side-step lunge that strengthens the legs in a different direction and opens the inner thighs.",
+      "category": "lower_body",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["adductors", "glutes", "quadriceps"],
+      "secondaryMuscles": ["hamstrings"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 8,
+      "secondsPerRep": 4,
+      "perSide": true,
+      "setup": "Stand with feet together and hands clasped in front of your chest.",
+      "steps": [
+        "Take a wide step out to one side.",
+        "Bend the stepping knee and push your hips back, keeping the other leg straight.",
+        "Keep both feet pointing forward and your chest lifted.",
+        "Push off the bent leg to return to standing. Complete the set, then switch sides."
+      ],
+      "breathing": "Breathe in as you lunge and out as you push back.",
+      "mistakes": [
+        "Letting the bent knee drift inward or far past the toes.",
+        "Rounding the back.",
+        "Lifting the heel of the bent leg."
+      ],
+      "easier": "Take a smaller step and lower only slightly.",
+      "harder": "Hold the bottom position for two seconds.",
+      "cautions": [
+        "Ease into the position gently; the inner thigh of the straight leg should feel a stretch, not pain."
+      ],
+      "mediaPath": "figure://lateral_lunge",
+      "tags": ["lower body", "lunge", "inner thighs", "glutes", "legs"]
+    },
+    {
+      "id": "glute_bridge",
+      "name": "Glute Bridge",
+      "description": "Lifting the hips from the floor while lying on your back strengthens the glutes and the backs of the legs.",
+      "category": "lower_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["glutes", "hamstrings"],
+      "secondaryMuscles": ["lower_back", "abs"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultDurationSeconds": 30,
+      "defaultReps": 12,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Lie on your back with knees bent, feet flat on the floor hip-width apart, and arms by your sides.",
+      "steps": [
+        "Press your feet into the floor and gently brace your core.",
+        "Lift your hips until your body forms a straight line from shoulders to knees.",
+        "Squeeze your glutes at the top for a moment.",
+        "Lower your hips slowly back to the floor."
+      ],
+      "breathing": "Breathe out as you lift and in as you lower.",
+      "mistakes": [
+        "Arching the lower back at the top instead of using the glutes.",
+        "Pushing through the toes instead of the whole foot.",
+        "Letting the knees fall in or out."
+      ],
+      "easier": "Lift only partway, or hold the top position for less time.",
+      "harder": "Hold the top for three seconds, or progress to the Single-Leg Glute Bridge.",
+      "cautions": [
+        "If you mainly feel it in your lower back, lift a little lower and focus on squeezing the glutes."
+      ],
+      "mediaPath": "figure://glute_bridge",
+      "tags": ["lower body", "glutes", "bridge", "floor", "beginner", "low impact"]
+    },
+    {
+      "id": "single_leg_glute_bridge",
+      "name": "Single-Leg Glute Bridge",
+      "description": "A harder bridge on one leg that builds strength and helps even out differences between sides.",
+      "category": "lower_body",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["glutes", "hamstrings"],
+      "secondaryMuscles": ["abs", "lower_back"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 8,
+      "secondsPerRep": 3,
+      "perSide": true,
+      "setup": "Lie on your back with knees bent and feet flat. Lift one foot off the floor and straighten that leg, keeping your thighs level.",
+      "steps": [
+        "Press through the heel of the planted foot.",
+        "Lift your hips until they are level and in line with your shoulders.",
+        "Keep the hips from tilting to one side.",
+        "Lower slowly. Complete the set, then switch legs."
+      ],
+      "breathing": "Breathe out as you lift and in as you lower.",
+      "mistakes": [
+        "Letting the hips drop or rotate to one side.",
+        "Pushing up with the lower back.",
+        "Rushing the movement."
+      ],
+      "easier": "Keep the lifted foot hovering just above the floor with the knee bent, or go back to the Glute Bridge.",
+      "harder": "Pause for three seconds at the top.",
+      "cautions": [
+        "If your hamstring starts to cramp, stop, shake it out and reduce the range."
+      ],
+      "mediaPath": "figure://single_leg_glute_bridge",
+      "tags": ["lower body", "glutes", "bridge", "single leg", "floor"]
+    },
+    {
+      "id": "wall_sit",
+      "name": "Wall Sit",
+      "description": "Holding a seated position against a wall builds leg endurance without any movement.",
+      "category": "lower_body",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["quadriceps"],
+      "secondaryMuscles": ["glutes", "abs"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Stand with your back against a wall and walk your feet forward about 60 cm (2 feet), hip-width apart.",
+      "steps": [
+        "Slide your back down the wall until your knees are bent, aiming for about 90 degrees or higher if needed.",
+        "Keep your knees over your ankles rather than past your toes.",
+        "Press your back into the wall and rest your hands on your thighs or let them hang.",
+        "Hold, then slide back up to stand."
+      ],
+      "breathing": "Keep breathing steadily – it is tempting to hold your breath here.",
+      "mistakes": [
+        "Knees drifting past the toes.",
+        "Pushing on the thighs with the hands.",
+        "Holding the breath."
+      ],
+      "easier": "Slide down only partway so the knees bend less.",
+      "harder": "Hold for longer, or lower until your thighs are parallel with the floor.",
+      "cautions": [
+        "Choose a depth that is comfortable for your knees.",
+        "Make sure your feet will not slip."
+      ],
+      "mediaPath": "figure://wall_sit",
+      "tags": ["lower body", "isometric", "quadriceps", "wall", "endurance", "low impact"]
+    },
+    {
+      "id": "calf_raise",
+      "name": "Calf Raise",
+      "description": "Rising onto the balls of your feet strengthens the calves and supports ankle stability.",
+      "category": "lower_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["calves"],
+      "secondaryMuscles": [],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 15,
+      "secondsPerRep": 2,
+      "perSide": false,
+      "setup": "Stand tall with feet hip-width apart, lightly holding a wall or chair back for balance.",
+      "steps": [
+        "Press through the balls of your feet to lift your heels as high as you can.",
+        "Pause at the top for a moment.",
+        "Lower your heels slowly back to the floor.",
+        "Keep your body tall and your ankles from rolling outward."
+      ],
+      "breathing": "Breathe out as you rise and in as you lower.",
+      "mistakes": [
+        "Bouncing quickly.",
+        "Rolling onto the outer edges of the feet.",
+        "Leaning heavily on the support."
+      ],
+      "easier": "Lift only partway and keep both hands on the support.",
+      "harder": "Raise one leg at a time, or pause for three seconds at the top.",
+      "cautions": [
+        "Use support for balance."
+      ],
+      "mediaPath": "figure://calf_raise",
+      "tags": ["lower body", "calves", "ankles", "standing", "beginner", "low impact"]
+    },
+    {
+      "id": "sumo_squat",
+      "name": "Sumo Squat",
+      "description": "A wide-stance squat that emphasises the inner thighs and glutes.",
+      "category": "lower_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["adductors", "glutes", "quadriceps"],
+      "secondaryMuscles": ["hamstrings"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 12,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Stand with feet wider than shoulder-width and toes turned out about 45 degrees. Clasp your hands in front of your chest.",
+      "steps": [
+        "Bend your knees and lower your hips straight down.",
+        "Guide your knees outward so they stay in line with your toes.",
+        "Keep your torso upright.",
+        "Press through your heels to stand and squeeze your glutes."
+      ],
+      "breathing": "Breathe in as you lower and out as you rise.",
+      "mistakes": [
+        "Knees rolling inward past the toes.",
+        "Leaning forward.",
+        "Lifting the heels."
+      ],
+      "easier": "Reduce the depth or hold a chair back for balance.",
+      "harder": "Pause at the bottom, or hold a dumbbell at your chest.",
+      "cautions": [
+        "Only turn your toes out as far as your knees comfortably follow."
+      ],
+      "mediaPath": "figure://sumo_squat",
+      "tags": ["lower body", "squat", "inner thighs", "glutes", "no equipment"]
+    },
+    {
+      "id": "fire_hydrant",
+      "name": "Fire Hydrant",
+      "description": "A hands-and-knees leg lift to the side that strengthens the outer hips.",
+      "category": "lower_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["abductors", "glutes"],
+      "secondaryMuscles": ["abs"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 10,
+      "secondsPerRep": 3,
+      "perSide": true,
+      "setup": "Start on hands and knees with hands under shoulders and knees under hips.",
+      "steps": [
+        "Brace your core and keep your back flat.",
+        "Keeping the knee bent at 90 degrees, lift one leg out to the side.",
+        "Lift only as high as you can without shifting your weight or tilting your hips.",
+        "Lower slowly. Complete the set, then switch sides."
+      ],
+      "breathing": "Breathe out as you lift and in as you lower.",
+      "mistakes": [
+        "Leaning the whole body away from the lifting leg.",
+        "Arching the lower back.",
+        "Swinging the leg up quickly."
+      ],
+      "easier": "Make the lift smaller.",
+      "harder": "Pause for two seconds at the top, or place a loop band just above your knees.",
+      "cautions": [
+        "Use a mat or towel under your knees."
+      ],
+      "mediaPath": "figure://fire_hydrant",
+      "tags": ["lower body", "glutes", "outer hips", "floor", "quadruped", "beginner"]
+    },
+    {
+      "id": "side_lying_leg_raise",
+      "name": "Side-Lying Leg Raise",
+      "description": "Lifting the top leg while lying on your side works the outer hip muscles that help keep the pelvis steady.",
+      "category": "lower_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["abductors"],
+      "secondaryMuscles": ["glutes", "obliques"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 12,
+      "secondsPerRep": 3,
+      "perSide": true,
+      "setup": "Lie on your side with legs straight and stacked and your head resting on your lower arm. Bend the bottom knee slightly for stability.",
+      "steps": [
+        "Keep your hips stacked and your top toes pointing forward.",
+        "Lift your top leg to about hip height or slightly higher.",
+        "Pause briefly, then lower it slowly.",
+        "Complete the set, then turn over to work the other side."
+      ],
+      "breathing": "Breathe out as you lift and in as you lower.",
+      "mistakes": [
+        "Rolling the hips backward.",
+        "Turning the toes up toward the ceiling.",
+        "Lifting so high that the lower back takes over."
+      ],
+      "easier": "Reduce the height of the lift.",
+      "harder": "Hold for two seconds at the top, or add a light loop band around the ankles.",
+      "cautions": [
+        "Rest your head on your arm or a cushion to keep your neck comfortable."
+      ],
+      "mediaPath": "figure://side_lying_leg_raise",
+      "tags": ["lower body", "outer hips", "glutes", "floor", "beginner", "low impact"]
+    },
+    {
+      "id": "jump_squat",
+      "name": "Jump Squat",
+      "description": "An explosive squat with a jump that builds leg power and raises the heart rate quickly.",
+      "category": "lower_body",
+      "difficulty": "advanced",
+      "primaryMuscles": ["quadriceps", "glutes"],
+      "secondaryMuscles": ["calves", "hamstrings"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": false,
+      "execution": "reps",
+      "defaultDurationSeconds": 30,
+      "defaultReps": 10,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Stand with feet shoulder-width apart in a clear space with a non-slip floor.",
+      "steps": [
+        "Squat down with your chest up and arms reaching back.",
+        "Swing your arms forward and jump straight up.",
+        "Land softly on the balls of your feet and roll through to your heels.",
+        "Sink straight into the next squat."
+      ],
+      "breathing": "Breathe in as you lower and out as you jump.",
+      "mistakes": [
+        "Landing with straight, stiff legs.",
+        "Knees caving in on landing.",
+        "Continuing to jump when tired and technique fades."
+      ],
+      "easier": "Do Bodyweight Squats with a rise onto your toes at the top instead of a jump.",
+      "harder": "Pause in the squat for a second before each jump.",
+      "cautions": [
+        "High impact: skip this exercise if jumping is uncomfortable for your knees, hips or ankles.",
+        "Check the ceiling height and your surroundings before jumping."
+      ],
+      "mediaPath": "figure://jump_squat",
+      "tags": ["lower body", "plyometric", "jump", "legs", "cardio", "advanced"]
+    },
+    {
+      "id": "bulgarian_split_squat",
+      "name": "Bulgarian Split Squat",
+      "description": "A split squat with the back foot raised on a chair, making the front leg work much harder.",
+      "category": "lower_body",
+      "difficulty": "advanced",
+      "primaryMuscles": ["quadriceps", "glutes"],
+      "secondaryMuscles": ["hamstrings", "adductors"],
+      "equipment": ["chair"],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 8,
+      "secondsPerRep": 4,
+      "perSide": true,
+      "setup": "Stand about 60 cm (2 feet) in front of a sturdy chair braced against a wall. Place the top of one foot on the seat behind you.",
+      "steps": [
+        "Keep most of your weight on the front foot.",
+        "Bend the front knee to lower your hips straight down.",
+        "Lower until the front thigh is about parallel to the floor, or as low as you can control.",
+        "Press through the front foot to rise. Finish the set, then switch legs."
+      ],
+      "breathing": "Breathe in as you lower and out as you rise.",
+      "mistakes": [
+        "Standing too close to the chair.",
+        "Letting the front knee collapse inward.",
+        "Bouncing out of the bottom position."
+      ],
+      "easier": "Go back to the Split Squat with both feet on the floor.",
+      "harder": "Hold a dumbbell in each hand.",
+      "cautions": [
+        "The chair must be stable and braced against a wall.",
+        "Hold a wall or second support for balance if needed."
+      ],
+      "mediaPath": "figure://bulgarian_split_squat",
+      "tags": ["lower body", "single leg", "chair", "strength", "legs", "advanced"]
+    },
+    {
+      "id": "goblet_squat",
+      "name": "Goblet Squat",
+      "description": "A squat holding one dumbbell at the chest, which helps you stay upright while adding load.",
+      "category": "lower_body",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["quadriceps", "glutes"],
+      "secondaryMuscles": ["abs", "upper_back", "adductors"],
+      "equipment": ["dumbbells"],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 10,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Hold one dumbbell vertically against your chest with both hands. Stand with feet about shoulder-width apart and toes slightly out.",
+      "steps": [
+        "Brace your core and keep the dumbbell close to your chest.",
+        "Push your hips back and bend your knees to lower down.",
+        "Let your elbows travel between your knees at the bottom.",
+        "Drive through your feet to stand tall."
+      ],
+      "breathing": "Breathe in as you lower and out as you stand.",
+      "mistakes": [
+        "Letting the dumbbell drift away from your chest.",
+        "Rounding the upper back.",
+        "Lifting the heels."
+      ],
+      "easier": "Use a lighter dumbbell, or squat down to a chair.",
+      "harder": "Use a heavier dumbbell or pause at the bottom.",
+      "cautions": [
+        "Choose a weight you can hold securely."
+      ],
+      "mediaPath": "figure://goblet_squat",
+      "tags": ["lower body", "dumbbells", "squat", "strength", "equipment"]
+    },
+    {
+      "id": "dumbbell_romanian_deadlift",
+      "name": "Dumbbell Romanian Deadlift",
+      "description": "A hip hinge with dumbbells that strengthens the backs of the legs and teaches you to lift with your hips.",
+      "category": "lower_body",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["hamstrings", "glutes"],
+      "secondaryMuscles": ["lower_back", "forearms"],
+      "equipment": ["dumbbells"],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 10,
+      "secondsPerRep": 4,
+      "perSide": false,
+      "setup": "Stand with feet hip-width apart, holding a dumbbell in each hand in front of your thighs. Soften your knees slightly.",
+      "steps": [
+        "Push your hips back as if closing a drawer behind you, keeping your back flat.",
+        "Slide the dumbbells down the front of your legs.",
+        "Stop when you feel a stretch in your hamstrings, usually around mid-shin.",
+        "Drive your hips forward to stand tall, squeezing your glutes."
+      ],
+      "breathing": "Breathe in as you hinge and out as you stand.",
+      "mistakes": [
+        "Rounding the back.",
+        "Bending the knees so much that it becomes a squat.",
+        "Letting the weights drift away from the legs."
+      ],
+      "easier": "Practise the hinge without weights, or reduce the range.",
+      "harder": "Do it on one leg with one dumbbell, holding a wall for balance.",
+      "cautions": [
+        "Keep your back flat; stop the movement earlier rather than rounding."
+      ],
+      "mediaPath": "figure://dumbbell_romanian_deadlift",
+      "tags": ["lower body", "dumbbells", "hamstrings", "glutes", "hinge", "equipment"]
+    },
+    {
+      "id": "band_lateral_walk",
+      "name": "Band Lateral Walk",
+      "description": "Side-stepping with a loop band around the legs strengthens the outer hips and helps the knees track well.",
+      "category": "lower_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["abductors", "glutes"],
+      "secondaryMuscles": ["quadriceps"],
+      "equipment": ["resistance_band"],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 10,
+      "secondsPerRep": 2,
+      "perSide": true,
+      "setup": "Place a loop band just above your knees or around your ankles. Stand with feet hip-width apart and knees softly bent in a slight squat.",
+      "steps": [
+        "Keep tension in the band and your chest up.",
+        "Step one foot out to the side, then follow with the other foot, keeping the band taut.",
+        "Take the set number of steps in one direction.",
+        "Then step back the other way for the second side."
+      ],
+      "breathing": "Breathe steadily with each step.",
+      "mistakes": [
+        "Bringing the feet fully together so the band goes slack.",
+        "Standing up straight.",
+        "Letting the knees cave inward."
+      ],
+      "easier": "Use a lighter band or place it above the knees.",
+      "harder": "Place the band around the ankles or use a stronger band.",
+      "cautions": [
+        "Use a band made for exercise and check it for damage before use."
+      ],
+      "mediaPath": "figure://band_lateral_walk",
+      "tags": ["lower body", "resistance band", "glutes", "outer hips", "equipment"]
+    }
+  ]
+}

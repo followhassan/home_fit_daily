@@ -1,0 +1,103 @@
+{
+  "contentVersion": 1,
+  "items": [
+    {
+      "id": "hydration",
+      "title": "General hydration habits",
+      "category": "nutrition",
+      "summary": "Simple, general habits for drinking enough around your workouts – no complicated formulas needed.",
+      "reviewStatus": "unreviewed",
+      "tags": ["hydration", "water", "drinking", "heat", "habits"],
+      "sections": [
+        {
+          "heading": "Everyday hydration",
+          "paragraphs": [
+            "How much fluid a person needs varies with body size, climate, activity and diet. Public health bodies publish general reference values; for example, the European Food Safety Authority has published adequate intake values for total water from drinks and food. In practice, most healthy adults can use simple cues rather than counting every glass."
+          ],
+          "bullets": [
+            "Drink regularly through the day, with meals and when you feel thirsty.",
+            "Pale yellow urine is a common, rough sign of reasonable hydration.",
+            "Water is a good default drink; you do not need special drinks for short home workouts."
+          ]
+        },
+        {
+          "heading": "Around your workouts",
+          "paragraphs": [
+            "For the short to moderate sessions in this app, having a glass of water some time before you start and keeping a drink nearby is usually enough. Sip during rests if you feel thirsty. After exercise, drink to thirst.",
+            "You will need more fluid in hot or humid rooms and when you sweat heavily. Ventilate the room, consider training at cooler times of day, and slow down if you feel overheated."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Small habits that help",
+          "paragraphs": [
+            "Keeping a refillable bottle within reach is one of the simplest ways to drink regularly. Some people link drinking water to existing routines, such as having a glass with each meal or after brushing their teeth. Fruit, vegetables, soups and other drinks also contribute to your fluid intake."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "When to be careful",
+          "paragraphs": [
+            "Some health conditions and medicines affect how much fluid you should drink. If you have been given advice about fluid intake by a health professional, follow that advice rather than general guidance. Dizziness, headache, confusion or feeling very unwell during exercise are reasons to stop and seek help if they do not settle quickly."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [
+        {"title": "Scientific Opinion on Dietary Reference Values for water", "publisher": "European Food Safety Authority (EFSA Journal)", "year": 2010}
+      ],
+      "relatedArticles": ["balanced_eating", "when_to_stop", "workout_space"],
+      "relatedExercises": [],
+      "relatedWorkouts": []
+    },
+    {
+      "id": "balanced_eating",
+      "title": "Balanced eating principles",
+      "category": "nutrition",
+      "summary": "General, non-restrictive principles for eating in a way that supports an active life.",
+      "reviewStatus": "unreviewed",
+      "tags": ["nutrition", "food", "balanced diet", "energy", "habits"],
+      "sections": [
+        {
+          "heading": "A general pattern, not a diet",
+          "paragraphs": [
+            "This article describes broad, widely shared healthy-eating principles. It is not a meal plan or a weight-loss programme, and it does not replace advice from a doctor or registered dietitian, especially if you have a medical condition, allergies, or a history of disordered eating.",
+            "Public health guidance, such as the World Health Organization's healthy diet advice, generally emphasises variety, plenty of plant foods, and limiting free sugars, salt and certain fats."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Building balanced meals",
+          "paragraphs": [],
+          "bullets": [
+            "Include vegetables and fruit at most meals.",
+            "Choose wholegrain or higher-fibre starchy foods where you can.",
+            "Include a source of protein, such as beans, lentils, eggs, dairy or alternatives, fish, poultry or meat.",
+            "Use moderate amounts of fats, favouring sources such as nuts, seeds and plant oils.",
+            "Enjoy foods high in sugar or salt less often and in smaller amounts."
+          ]
+        },
+        {
+          "heading": "Eating around exercise",
+          "paragraphs": [
+            "For short home workouts, most people do not need special timing or products. Some prefer exercising a couple of hours after a meal; others are comfortable after a light snack. Notice what feels best for you. Supplements are not necessary for the workouts in this app."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Exercise and body weight",
+          "paragraphs": [
+            "Exercise has many benefits that do not depend on weight change, including fitness, strength, mood and sleep. Body weight is influenced by many factors, and exercising one area of the body does not specifically remove fat from that area. Be cautious of any programme that promises a specific amount of weight loss in a set time."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [
+        {"title": "Healthy diet (fact sheet)", "publisher": "World Health Organization"}
+      ],
+      "relatedArticles": ["hydration", "realistic_goals", "sleep_recovery"],
+      "relatedExercises": [],
+      "relatedWorkouts": []
+    }
+  ]
+}

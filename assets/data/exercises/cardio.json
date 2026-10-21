@@ -1,0 +1,362 @@
+{
+  "contentVersion": 1,
+  "items": [
+    {
+      "id": "jumping_jacks",
+      "name": "Jumping Jacks",
+      "description": "A classic cardio move that raises your heart rate and warms the whole body.",
+      "category": "cardio",
+      "difficulty": "beginner",
+      "primaryMuscles": ["calves", "shoulders"],
+      "secondaryMuscles": ["quadriceps", "glutes", "abductors"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": false,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "defaultReps": 20,
+      "secondsPerRep": 1,
+      "perSide": false,
+      "setup": "Stand tall with feet together and arms by your sides.",
+      "steps": [
+        "Jump your feet out to slightly wider than shoulder-width while raising your arms overhead.",
+        "Jump back to the start, bringing your arms down.",
+        "Land softly on the balls of your feet.",
+        "Keep a steady rhythm."
+      ],
+      "breathing": "Breathe in a steady rhythm rather than in short gasps.",
+      "mistakes": [
+        "Landing heavily on the heels.",
+        "Locking the knees.",
+        "Letting the arms flop without control."
+      ],
+      "easier": "Do Step Jacks, stepping one foot out at a time.",
+      "harder": "Increase the pace, or sink into a small squat each time the feet land wide.",
+      "cautions": [
+        "High impact: choose Step Jacks if jumping is uncomfortable.",
+        "Wear supportive shoes on hard floors."
+      ],
+      "mediaPath": "figure://jumping_jacks",
+      "tags": ["cardio", "jumping", "warm-up", "full body", "no equipment"]
+    },
+    {
+      "id": "step_jacks",
+      "name": "Step Jacks",
+      "description": "A low-impact version of jumping jacks: step out one foot at a time while raising the arms.",
+      "category": "cardio",
+      "difficulty": "beginner",
+      "primaryMuscles": ["calves", "shoulders"],
+      "secondaryMuscles": ["quadriceps", "abductors"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "defaultReps": 20,
+      "secondsPerRep": 2,
+      "perSide": false,
+      "setup": "Stand tall with feet together and arms by your sides.",
+      "steps": [
+        "Step your right foot out to the side while raising both arms overhead.",
+        "Step it back in as your arms come down.",
+        "Repeat with the left foot.",
+        "Pick up the pace as you warm up while staying in control."
+      ],
+      "breathing": "Breathe steadily in rhythm with your steps.",
+      "mistakes": [
+        "Shuffling without fully raising the arms.",
+        "Hunching the shoulders.",
+        "Stepping out so far that you lose balance."
+      ],
+      "easier": "Raise the arms only to shoulder height.",
+      "harder": "Move faster, or progress to Jumping Jacks.",
+      "cautions": [
+        "Make sure there is enough space around you to raise your arms."
+      ],
+      "mediaPath": "figure://step_jacks",
+      "tags": ["cardio", "low impact", "warm-up", "beginner", "standing"]
+    },
+    {
+      "id": "high_knees",
+      "name": "High Knees",
+      "description": "Running in place with the knees driving up raises the heart rate and works the hip flexors.",
+      "category": "cardio",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["hip_flexors", "quadriceps"],
+      "secondaryMuscles": ["calves", "abs"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": false,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Stand with feet hip-width apart and arms bent at your sides.",
+      "steps": [
+        "Run in place, driving one knee up toward hip height.",
+        "Switch legs quickly, landing softly on the balls of your feet.",
+        "Pump your arms in time with your legs.",
+        "Keep your chest up and your core braced."
+      ],
+      "breathing": "Breathe quickly but rhythmically, and slow down if you cannot catch your breath.",
+      "mistakes": [
+        "Leaning back.",
+        "Landing heavily.",
+        "Letting the knee lift drop very low as you tire."
+      ],
+      "easier": "Do Standing Knee Drives at a marching pace without jumping.",
+      "harder": "Increase the speed while keeping the knees high.",
+      "cautions": [
+        "High impact: choose the marching version if your joints feel uncomfortable."
+      ],
+      "mediaPath": "figure://high_knees",
+      "tags": ["cardio", "running", "high intensity", "legs"]
+    },
+    {
+      "id": "knee_drive_march",
+      "name": "Standing Knee Drive",
+      "description": "A brisk, low-impact march with powerful knee drives and arm swings.",
+      "category": "cardio",
+      "difficulty": "beginner",
+      "primaryMuscles": ["hip_flexors"],
+      "secondaryMuscles": ["abs", "quadriceps", "calves"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Stand tall with feet hip-width apart and arms bent at 90 degrees.",
+      "steps": [
+        "Drive one knee up toward hip height while swinging the opposite arm forward.",
+        "Lower that foot and immediately drive the other knee up.",
+        "Keep a brisk pace with no jumping.",
+        "Stay tall and keep your core engaged."
+      ],
+      "breathing": "Breathe steadily; you should be working but still able to speak in short phrases.",
+      "mistakes": [
+        "Leaning back.",
+        "Stomping instead of placing the feet softly.",
+        "Letting the arms hang still."
+      ],
+      "easier": "Slow the pace and lift the knees lower.",
+      "harder": "Rise onto the toes of the standing foot with each knee drive.",
+      "cautions": [
+        "Hold onto a chair if you need help with balance."
+      ],
+      "mediaPath": "figure://knee_drive_march",
+      "tags": ["cardio", "low impact", "marching", "beginner", "standing"]
+    },
+    {
+      "id": "butt_kicks",
+      "name": "Butt Kicks",
+      "description": "Jog in place while bringing your heels toward your glutes to lift your heart rate.",
+      "category": "cardio",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["hamstrings"],
+      "secondaryMuscles": ["calves", "quadriceps"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": false,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Stand tall with feet hip-width apart.",
+      "steps": [
+        "Start jogging in place.",
+        "Flick each heel back toward your glutes.",
+        "Stay on the balls of your feet and keep your knees pointing down.",
+        "Move your arms naturally."
+      ],
+      "breathing": "Breathe in a steady rhythm.",
+      "mistakes": [
+        "Leaning forward.",
+        "Landing heavily.",
+        "Letting the knees drift forward."
+      ],
+      "easier": "Walk in place and lift each heel slowly without jogging.",
+      "harder": "Increase the pace.",
+      "cautions": [
+        "Impact: choose the walking version if jogging is uncomfortable."
+      ],
+      "mediaPath": "figure://butt_kicks",
+      "tags": ["cardio", "jogging", "hamstrings", "warm-up"]
+    },
+    {
+      "id": "skater_hops",
+      "name": "Skater Hops",
+      "description": "Sideways leaps from one foot to the other, like a speed skater, for power and balance.",
+      "category": "cardio",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["glutes", "quadriceps"],
+      "secondaryMuscles": ["abductors", "calves"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": false,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Stand on your right leg with a slight bend in the knee and your left foot lifted behind you.",
+      "steps": [
+        "Leap sideways to the left, landing softly on your left foot.",
+        "Swing your right leg behind you and reach your arms across your body for balance.",
+        "Pause briefly to steady yourself.",
+        "Leap back to the right and keep alternating."
+      ],
+      "breathing": "Breathe in a steady rhythm, breathing out as you push off.",
+      "mistakes": [
+        "Landing on a stiff knee.",
+        "Letting the knee collapse inward on landing.",
+        "Leaping further than you can control."
+      ],
+      "easier": "Do Skater Steps without the jump.",
+      "harder": "Increase the distance or pace while still landing softly.",
+      "cautions": [
+        "High impact and demanding on balance: clear the area and use a non-slip floor."
+      ],
+      "mediaPath": "figure://skater_hops",
+      "tags": ["cardio", "jumping", "balance", "glutes", "legs"]
+    },
+    {
+      "id": "skater_steps",
+      "name": "Skater Steps",
+      "description": "A low-impact skater: step side to side and tap the trailing foot behind you.",
+      "category": "cardio",
+      "difficulty": "beginner",
+      "primaryMuscles": ["glutes", "quadriceps"],
+      "secondaryMuscles": ["abductors"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Stand with feet hip-width apart and knees slightly bent.",
+      "steps": [
+        "Step your right foot wide to the right.",
+        "Sweep your left foot behind your right and tap the toes down, bending the right knee slightly.",
+        "Step back to the left and repeat with the opposite leg.",
+        "Swing your arms across your body to keep a rhythm."
+      ],
+      "breathing": "Breathe steadily.",
+      "mistakes": [
+        "Taking steps that are too narrow.",
+        "Leaning far forward.",
+        "Letting the standing knee cave in."
+      ],
+      "easier": "Make the steps smaller and slower.",
+      "harder": "Sink lower with each step, or move faster.",
+      "cautions": [
+        "Use a non-slip surface."
+      ],
+      "mediaPath": "figure://skater_steps",
+      "tags": ["cardio", "low impact", "glutes", "legs", "beginner"]
+    },
+    {
+      "id": "mountain_climber",
+      "name": "Mountain Climber",
+      "description": "Driving the knees toward the chest from a plank – a core and cardio exercise in one.",
+      "category": "cardio",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["abs", "hip_flexors"],
+      "secondaryMuscles": ["shoulders", "quadriceps"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": false,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "defaultReps": 20,
+      "secondsPerRep": 1,
+      "perSide": false,
+      "setup": "Start in a high plank with hands under shoulders and your body in a straight line.",
+      "steps": [
+        "Brace your core.",
+        "Drive your right knee toward your chest.",
+        "Switch legs quickly, bringing the left knee in as the right leg returns.",
+        "Keep your hips low and your shoulders over your wrists."
+      ],
+      "breathing": "Breathe in a steady rhythm and do not hold your breath.",
+      "mistakes": [
+        "Bouncing the hips high.",
+        "Letting the shoulders drift behind the hands.",
+        "Moving faster than you can control."
+      ],
+      "easier": "Step the knees in slowly one at a time, or place your hands on a sturdy chair seat.",
+      "harder": "Increase the pace while keeping the hips steady.",
+      "cautions": [
+        "Use fists if your wrists are uncomfortable."
+      ],
+      "mediaPath": "figure://mountain_climber",
+      "tags": ["cardio", "core", "plank", "high intensity"]
+    },
+    {
+      "id": "shadow_boxing",
+      "name": "Shadow Boxing",
+      "description": "Light, rhythmic punches with soft, bouncy knees – a fun, low-impact way to raise your heart rate.",
+      "category": "cardio",
+      "difficulty": "beginner",
+      "primaryMuscles": ["shoulders"],
+      "secondaryMuscles": ["abs", "obliques", "calves"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 45,
+      "perSide": false,
+      "setup": "Stand in a staggered stance with knees soft, fists up near your chin and elbows tucked in.",
+      "steps": [
+        "Punch forward with one arm, rotating slightly through your torso.",
+        "Pull the hand back to your chin quickly.",
+        "Alternate arms, mixing straight punches and hooks.",
+        "Stay light on your feet and keep moving."
+      ],
+      "breathing": "Breathe out sharply with each punch.",
+      "mistakes": [
+        "Snapping the elbow straight at full extension.",
+        "Dropping the hands between punches.",
+        "Holding the breath."
+      ],
+      "easier": "Punch slowly with your feet planted.",
+      "harder": "Speed up, and add squats or side steps.",
+      "cautions": [
+        "Keep a slight bend in the elbow at the end of each punch."
+      ],
+      "mediaPath": "figure://shadow_boxing",
+      "tags": ["cardio", "low impact", "boxing", "upper body", "fun"]
+    },
+    {
+      "id": "side_step_touch",
+      "name": "Side Step Touch",
+      "description": "A simple side-to-side step that gets you moving gently – ideal as a warm-up or a light cardio block.",
+      "category": "cardio",
+      "difficulty": "beginner",
+      "primaryMuscles": ["abductors"],
+      "secondaryMuscles": ["calves", "shoulders"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 45,
+      "perSide": false,
+      "setup": "Stand with feet together and knees soft.",
+      "steps": [
+        "Step your right foot out to the side.",
+        "Bring your left foot in to touch beside it.",
+        "Step back to the left and tap the right foot in.",
+        "Add arm swings or claps to raise the intensity."
+      ],
+      "breathing": "Breathe easily; you should be able to talk.",
+      "mistakes": [
+        "Keeping the legs stiff.",
+        "Looking down at the feet.",
+        "Taking steps too small to raise the heart rate."
+      ],
+      "easier": "Keep the steps small and the arms relaxed.",
+      "harder": "Take wider steps, bend the knees more, and add overhead arm reaches.",
+      "cautions": [
+        "Clear the space around you before you start."
+      ],
+      "mediaPath": "figure://side_step_touch",
+      "tags": ["cardio", "low impact", "beginner", "warm-up", "standing"]
+    }
+  ]
+}

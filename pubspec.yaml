@@ -1,5 +1,5 @@
 name: home_fit_daily
-description: "HomeFit – Home Workout Fitness. Premium offline home workout app."
+description: "HomeFit – an offline home workout and fitness guide."
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -13,25 +13,41 @@ dependencies:
   provider: ^6.1.2
   hive: ^2.2.3
   hive_flutter: ^1.1.0
-  path_provider: ^2.1.5
   fl_chart: ^0.70.2
   lottie: ^3.3.1
   flutter_animate: ^4.5.2
   flutter_local_notifications: ^18.0.1
-  shared_preferences: ^2.5.3
-  google_fonts: ^6.2.1
-  animations: ^2.0.11
   intl: ^0.20.2
   uuid: ^4.5.1
   timezone: ^0.10.0
+  wakelock_plus: ^1.8.0
+  file_picker: ^13.1.0
+  flutter_timezone: ^5.1.1
+  audioplayers: ^6.8.1
 
 dev_dependencies:
   flutter_test:
+    sdk: flutter
+  integration_test:
     sdk: flutter
   flutter_lints: ^6.0.0
 
 flutter:
   uses-material-design: true
   assets:
-    - assets/animations/
-    - assets/images/
+    - assets/data/
+    - assets/data/exercises/
+    - assets/data/articles/
+    - assets/audio/
+    - assets/fonts/inter/OFL.txt
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/inter/Inter-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/inter/Inter-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/inter/Inter-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/inter/Inter-Bold.ttf
+          weight: 700

@@ -1,0 +1,203 @@
+{
+  "contentVersion": 1,
+  "items": [
+    {
+      "id": "warming_up",
+      "title": "Warming up",
+      "category": "technique",
+      "summary": "A few minutes of easy movement prepares your body for harder work and helps the main workout feel smoother.",
+      "reviewStatus": "unreviewed",
+      "tags": ["warm-up", "preparation", "technique", "injury prevention"],
+      "sections": [
+        {
+          "heading": "Why warm up",
+          "paragraphs": [
+            "A warm-up gradually raises your heart rate and body temperature and takes your joints through the movements you are about to use. Most people find that the first hard exercise feels easier and moves more freely after a few minutes of lighter activity. It is also a useful mental transition from whatever you were doing before.",
+            "Warm-ups are generally recommended before exercise, particularly before more intense sessions. They do not need to be long or complicated."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "What a good warm-up includes",
+          "paragraphs": [
+            "Aim for three to eight minutes that start easy and build up gradually."
+          ],
+          "bullets": [
+            "Light, rhythmic movement such as marching in place or step jacks.",
+            "Joint circles for the shoulders and hips.",
+            "Dynamic movements that resemble the workout, such as easy squats or leg swings.",
+            "A gradual build-up: by the end, you should feel warm and slightly more alert."
+          ]
+        },
+        {
+          "heading": "Dynamic rather than long static stretches",
+          "paragraphs": [
+            "Before exercise, controlled moving stretches – leg swings, arm circles, lunges with a twist – tend to suit a warm-up better than holding long stretches. Longer static holds fit naturally into the cool-down or a separate flexibility session.",
+            "Most ready-made workouts in this app already include a warm-up section. When you build your own workout, add one or two warm-up steps at the start; the builder lets you mark steps as warm-up so they run once before your main rounds."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Adjust it to the day",
+          "paragraphs": [
+            "On cold mornings, after long periods of sitting, or before a higher-intensity workout, a slightly longer warm-up can make the session more comfortable. If something feels stiff during the warm-up, spend an extra minute on gentle mobility for that area rather than pushing straight into hard work."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [
+        {"title": "ACSM's Guidelines for Exercise Testing and Prescription, 11th edition", "publisher": "American College of Sports Medicine / Wolters Kluwer", "year": 2021}
+      ],
+      "relatedArticles": ["cooling_down", "mobility_stretching", "getting_started_home_workouts"],
+      "relatedExercises": ["march_in_place", "arm_circles", "hip_circles", "leg_swings"],
+      "relatedWorkouts": ["morning_wake_up"]
+    },
+    {
+      "id": "cooling_down",
+      "title": "Cooling down",
+      "category": "technique",
+      "summary": "Ending with a few minutes of easier movement and stretching helps you transition back to rest.",
+      "reviewStatus": "unreviewed",
+      "tags": ["cool-down", "stretching", "recovery", "technique"],
+      "sections": [
+        {
+          "heading": "What a cool-down is for",
+          "paragraphs": [
+            "After demanding exercise, your heart rate and breathing take a little time to settle. A cool-down – a few minutes of easier movement followed by gentle stretches – lets this happen gradually instead of stopping abruptly. Many people also find it a calming way to finish a session.",
+            "Stopping suddenly after hard cardio can occasionally leave people feeling lightheaded. Walking or marching gently for a minute or two helps avoid that."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "A simple cool-down",
+          "paragraphs": [],
+          "bullets": [
+            "One to two minutes of easy marching or walking around the room.",
+            "Two to four stretches for the muscles you worked, each held for 20 to 30 seconds.",
+            "Slow breathing, with a longer breath out than breath in."
+          ]
+        },
+        {
+          "heading": "How stretches should feel",
+          "paragraphs": [
+            "A stretch should feel like mild to moderate tension that eases as you breathe – never sharp, stabbing or tingling. Move into stretches slowly and avoid bouncing. If a stretch causes pain, come out of it and try the easier version or a different stretch for that area.",
+            "Stretching after exercise is a good habit for comfort and mobility. It is not a cure for muscle soreness, and soreness on the following days is normal when you try new exercises."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "When you are short on time",
+          "paragraphs": [
+            "If you only have a minute, march gently until your breathing settles and do one stretch for the area that feels tightest. You can also use the Post-Workout Stretch routine as a stand-alone session later in the day."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [],
+      "relatedArticles": ["warming_up", "mobility_stretching", "rest_days"],
+      "relatedExercises": ["standing_quad_stretch", "childs_pose", "standing_calf_stretch"],
+      "relatedWorkouts": ["post_workout_stretch", "evening_stretch"]
+    },
+    {
+      "id": "breathing",
+      "title": "Breathing during exercise",
+      "category": "technique",
+      "summary": "Simple breathing cues that keep you steady during strength work, cardio and stretching.",
+      "reviewStatus": "unreviewed",
+      "tags": ["breathing", "technique", "bracing", "cardio", "strength"],
+      "sections": [
+        {
+          "heading": "Keep breathing",
+          "paragraphs": [
+            "The most important rule is simple: do not hold your breath for long periods. Breath-holding during effort is common, especially during planks, wall sits and the hardest part of a repetition. It can make you feel tense or lightheaded. If you notice you are holding your breath, the exercise may be too hard – try the easier variation."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Strength exercises",
+          "paragraphs": [
+            "A useful default is to breathe out during the effort and breathe in as you return. For a squat, breathe in as you lower and out as you stand. For a push-up, breathe in as you lower and out as you push away. Each exercise in the library includes a specific breathing cue.",
+            "During holds such as planks, take slow, controlled breaths while keeping your stomach gently braced – firm, as if preparing for a light poke – rather than sucking it in or pushing it out."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Cardio",
+          "paragraphs": [
+            "During steady cardio, find a rhythm that matches your movement. A practical check is the talk test: at a moderate effort you can talk in full sentences but not sing; at a vigorous effort you can only say a few words at a time. If you cannot catch your breath, slow down or switch to a lower-impact move."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Stretching and mobility",
+          "paragraphs": [
+            "Slow breathing helps you relax into stretches. Try breathing in through your nose for a count of about four and out for a count of about six. Many people find they can ease a little further into a comfortable stretch on the breath out."
+          ],
+          "bullets": [
+            "Exhale on the effort, inhale on the return.",
+            "Never hold your breath through a whole set.",
+            "Use slow breaths to settle your heart rate during rests."
+          ]
+        }
+      ],
+      "references": [],
+      "relatedArticles": ["exercise_effort", "technique_mistakes", "cooling_down"],
+      "relatedExercises": ["forearm_plank", "wall_sit", "bodyweight_squat"],
+      "relatedWorkouts": ["core_basics"]
+    },
+    {
+      "id": "technique_mistakes",
+      "title": "Common technique mistakes",
+      "category": "technique",
+      "summary": "A handful of habits cause most form problems at home. Here is how to spot and fix them.",
+      "reviewStatus": "unreviewed",
+      "tags": ["technique", "form", "mistakes", "squat", "plank", "push-up"],
+      "sections": [
+        {
+          "heading": "Rushing",
+          "paragraphs": [
+            "Moving quickly feels productive, but it often shortens the range of motion and lets momentum do the work. Controlled repetitions – about two seconds down and one to two seconds up – are usually more effective and easier on the joints. If you finish your repetitions long before the rest of the set, slow down rather than adding more."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Knees caving in during squats and lunges",
+          "paragraphs": [
+            "Letting the knees fall inward as you lower or stand is common. Aim to keep each knee travelling roughly in line with the second or third toe. Reducing the depth, slowing down or holding support often fixes it. Strengthening the outer hips with exercises such as the side-lying leg raise can also help."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Sagging or piking in planks and push-ups",
+          "paragraphs": [
+            "In a plank, push-up or mountain climber, your body should form a straight line from head to heels (or knees). Hips that sag increase the load on the lower back; hips raised high take work away from the core. Squeezing your glutes gently and bracing your stomach usually brings you back into line. If you cannot hold the line, use the knee or incline variation."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Shrugging and neck tension",
+          "paragraphs": [
+            "Many people lift their shoulders toward their ears under effort, or pull on their head during crunches. Think of keeping your neck long and your shoulders away from your ears. During crunches, your hands should only lightly support your head."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Choosing a variation that is too hard",
+          "paragraphs": [
+            "Most form problems disappear when you choose an easier variation. Doing incline push-ups well builds more useful strength than struggling through floor push-ups with a sagging back. Each exercise in the library lists an easier and, where appropriate, a harder version."
+          ],
+          "bullets": [
+            "Slow down.",
+            "Reduce the range of motion.",
+            "Use support or the easier variation.",
+            "Stop when form breaks down, even if the timer has not finished."
+          ]
+        }
+      ],
+      "references": [],
+      "relatedArticles": ["choosing_difficulty", "breathing", "gradual_progression"],
+      "relatedExercises": ["bodyweight_squat", "push_up", "forearm_plank", "side_lying_leg_raise"],
+      "relatedWorkouts": ["full_body_foundations"]
+    }
+  ]
+}

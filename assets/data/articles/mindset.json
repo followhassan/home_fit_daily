@@ -1,0 +1,152 @@
+{
+  "contentVersion": 1,
+  "items": [
+    {
+      "id": "building_consistency",
+      "title": "Building consistency",
+      "category": "mindset",
+      "summary": "Regular, manageable sessions beat occasional heroic ones. Practical ways to make exercise a normal part of your week.",
+      "reviewStatus": "unreviewed",
+      "tags": ["consistency", "habit", "routine", "motivation", "weekly goal"],
+      "sections": [
+        {
+          "heading": "Consistency over intensity",
+          "paragraphs": [
+            "The benefits of exercise build up over months, not days. A routine you can keep – even if each session is short – usually achieves more than an ambitious plan that lasts two weeks. That is why this app emphasises your weekly target: it rewards showing up regularly rather than pushing to exhaustion."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Make it easy to start",
+          "paragraphs": [],
+          "bullets": [
+            "Schedule sessions on specific days and times, like an appointment.",
+            "Link exercise to an existing habit – for example, after your morning coffee or when you get home from work.",
+            "Keep a \"minimum version\" for busy days, such as the Desk Break or Five-Minute Starter.",
+            "Prepare your space in advance: shoes out, mat unrolled, phone ready.",
+            "Use optional reminders on the days you plan to train."
+          ]
+        },
+        {
+          "heading": "Streaks and weekly targets",
+          "paragraphs": [
+            "Streaks can be motivating, but they count consecutive days, and rest days are important. Do not skip planned rest to keep a streak alive. The weekly target and the \"weeks on target\" count are better measures of a sustainable routine, because they include rest by design.",
+            "If your streak ends, nothing you built is lost. Your history, strength and habits remain."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Planning for interruptions",
+          "paragraphs": [
+            "Holidays, illness and busy periods will interrupt any routine. Decide in advance what you will do: perhaps two short sessions instead of three, or mobility only. When you are ready to restart, return at a slightly easier level and build back up. In a training plan, you can pause and resume, or reschedule a missed session without cramming two workouts into one day."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [],
+      "relatedArticles": ["realistic_goals", "tracking_progress", "motivation_dips", "rest_days"],
+      "relatedExercises": [],
+      "relatedWorkouts": ["desk_break", "five_minute_starter"]
+    },
+    {
+      "id": "tracking_progress",
+      "title": "Using progress tracking constructively",
+      "category": "mindset",
+      "summary": "Numbers can motivate or discourage. How to read your history in a way that helps.",
+      "reviewStatus": "unreviewed",
+      "tags": ["progress", "tracking", "history", "measurements", "motivation"],
+      "sections": [
+        {
+          "heading": "What the app records",
+          "paragraphs": [
+            "HomeFit records completed, partial and abandoned sessions, active exercise time, rest time and the date you trained. Only sessions you complete count as completed workouts; partial sessions still show in your history and add to your active minutes. Nothing is estimated or invented – if you have not trained yet, the numbers are zero.",
+            "The app does not estimate calories. Energy use varies too much between individuals for a phone app to estimate it accurately from a workout alone."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Look at trends, not single days",
+          "paragraphs": [
+            "Any single day can be good or bad. Weekly and monthly charts show the more meaningful picture: are you exercising more regularly than a month ago? Has your active time gradually increased? Your effort ratings over time can also show whether your workouts are getting easier."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Body measurements",
+          "paragraphs": [
+            "Recording body weight or measurements is optional. If you choose to, measure under similar conditions each time – for example in the morning before eating – and look at the trend over weeks rather than daily changes, which are often caused by water and food. Many benefits of exercise, such as strength, stamina, mood and sleep, never show up on a scale.",
+            "If tracking weight makes you anxious or unhappy, it is completely fine not to use that feature."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Other signs of progress",
+          "paragraphs": [],
+          "bullets": [
+            "An exercise that used to be hard now feels controlled.",
+            "You moved from an easier variation to a harder one.",
+            "Daily tasks such as carrying shopping or climbing stairs feel easier.",
+            "You exercised regularly for several weeks in a row."
+          ]
+        }
+      ],
+      "references": [],
+      "relatedArticles": ["realistic_goals", "building_consistency", "exercise_effort"],
+      "relatedExercises": [],
+      "relatedWorkouts": []
+    },
+    {
+      "id": "motivation_dips",
+      "title": "When motivation dips",
+      "category": "mindset",
+      "summary": "Motivation naturally rises and falls. Strategies for keeping going on the days you would rather not.",
+      "reviewStatus": "unreviewed",
+      "tags": ["motivation", "habit", "mindset", "routine", "low energy"],
+      "sections": [
+        {
+          "heading": "Motivation is not constant",
+          "paragraphs": [
+            "Almost everyone feels enthusiastic at the start of a new routine, and almost everyone experiences that enthusiasm fading. This is normal. Long-term exercisers usually rely less on motivation and more on routine: exercise becomes something they simply do at certain times, like brushing their teeth."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "The five-minute rule",
+          "paragraphs": [
+            "On a low-motivation day, agree with yourself to do just five minutes. Start the warm-up and see how you feel. Often, once you are moving, you will want to continue. If you do not, stop after five minutes – that still counts as moving, and it keeps the habit alive."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Practical ideas",
+          "paragraphs": [],
+          "bullets": [
+            "Try a different category – a cardio day if strength feels boring, or a mobility session if you are tired.",
+            "Create your own workout with exercises you enjoy.",
+            "Exercise with music you like.",
+            "Look back at your history to see how far you have come.",
+            "Try a structured plan so you do not have to decide what to do each day."
+          ]
+        },
+        {
+          "heading": "Lower the barrier for next time",
+          "paragraphs": [
+            "After a day when you did not feel like exercising, ask what got in the way. Was the workout too long, at an awkward time, or simply not enjoyable? Small changes – a shorter routine, a reminder at a better time, or a different type of session – often make the next attempt easier than relying on willpower."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Tired or unwell?",
+          "paragraphs": [
+            "Low motivation is different from being genuinely exhausted or ill. If you are unwell, rest. If you have felt persistently low in mood or energy for weeks, consider talking to a health professional; it is worth checking and support is available."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [],
+      "relatedArticles": ["building_consistency", "rest_days", "realistic_goals"],
+      "relatedExercises": [],
+      "relatedWorkouts": ["five_minute_starter", "energy_boost"]
+    }
+  ]
+}

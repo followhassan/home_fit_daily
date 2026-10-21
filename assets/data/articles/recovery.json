@@ -1,0 +1,107 @@
+{
+  "contentVersion": 1,
+  "items": [
+    {
+      "id": "rest_days",
+      "title": "Rest days and recovery",
+      "category": "recovery",
+      "summary": "Your body adapts to training between sessions. Rest days are part of the plan, not a lapse in it.",
+      "reviewStatus": "unreviewed",
+      "tags": ["rest", "recovery", "soreness", "rest day", "overtraining"],
+      "sections": [
+        {
+          "heading": "Why rest matters",
+          "paragraphs": [
+            "Exercise is a stimulus; the improvements happen afterwards as your body recovers and adapts. Without enough recovery, fatigue builds up and workouts start to feel harder rather than easier. Planned rest days help you come back to the next session with more energy and better technique.",
+            "That is why every plan in this app includes rest days, and why the app shows weekly consistency next to your streak. Taking a scheduled rest day is doing the plan correctly."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "What to do on a rest day",
+          "paragraphs": [],
+          "bullets": [
+            "Rest completely if you feel tired.",
+            "Go for an easy walk if you enjoy it.",
+            "Do gentle stretching or a mobility routine.",
+            "Focus on sleep, regular meals and drinking enough water."
+          ]
+        },
+        {
+          "heading": "Muscle soreness",
+          "paragraphs": [
+            "Soreness that appears a day or two after a new or harder workout is common. It usually eases within a few days and becomes less noticeable as you get used to the exercises. Gentle movement often feels better than staying completely still.",
+            "Soreness is different from pain. Sharp pain, pain in a joint, pain that gets worse during exercise, or swelling are reasons to stop that exercise and, if it persists, to get advice from a qualified health professional."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Signs you need more recovery",
+          "paragraphs": [
+            "Persistent tiredness, poor sleep, aching that does not fade, irritability, or performance that keeps getting worse can all suggest you need extra rest. Take a few easy days, then return at a slightly lower level. Missing a planned session to recover is a sensible decision; you can reschedule it in the plan view without doubling up on later days."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [],
+      "relatedArticles": ["sleep_recovery", "gradual_progression", "building_consistency"],
+      "relatedExercises": ["childs_pose", "supine_spinal_twist"],
+      "relatedWorkouts": ["evening_stretch", "full_body_mobility"]
+    },
+    {
+      "id": "sleep_recovery",
+      "title": "Sleep and recovery",
+      "category": "recovery",
+      "summary": "Sleep supports energy, mood and how well you recover from exercise. Small habits can make it more consistent.",
+      "reviewStatus": "unreviewed",
+      "tags": ["sleep", "recovery", "energy", "habits", "rest"],
+      "sections": [
+        {
+          "heading": "Why sleep matters for exercise",
+          "paragraphs": [
+            "Sleep is when much of the body's recovery happens. Short or poor sleep tends to make workouts feel harder, reduces motivation and can make it harder to concentrate on good technique. Expert consensus statements suggest that most adults need at least seven hours of sleep per night on a regular basis, though individual needs vary."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Habits that often help",
+          "paragraphs": [],
+          "bullets": [
+            "Keep a fairly regular bedtime and wake-up time, including at weekends.",
+            "Get some daylight in the morning.",
+            "Keep the bedroom dark, quiet and comfortably cool.",
+            "Wind down for 30 to 60 minutes before bed – a gentle stretch can be part of this.",
+            "Be mindful of caffeine later in the day and large meals close to bedtime."
+          ]
+        },
+        {
+          "heading": "Timing your workouts",
+          "paragraphs": [
+            "Some people sleep better after evening exercise; others find vigorous workouts close to bedtime keep them awake. If you train in the evening and struggle to fall asleep, try finishing earlier or choosing calmer sessions such as the Evening Stretch routine at night."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Naps and rest",
+          "paragraphs": [
+            "A short daytime nap can help some people feel more alert, while long or late naps can make night-time sleep harder. If you nap, keeping it brief and early in the afternoon is a common approach. Quiet rest, such as a slow evening stretch, can also help you wind down even when you are not sleepy."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "When sleep is short",
+          "paragraphs": [
+            "After a poor night, consider a lighter session, a mobility routine or an extra rest day rather than pushing through a hard workout. If you have ongoing sleep problems, daytime sleepiness or loud snoring, speak to a health professional – these can have causes that are worth checking."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [
+        {"title": "Recommended Amount of Sleep for a Healthy Adult: A Joint Consensus Statement of the American Academy of Sleep Medicine and Sleep Research Society", "publisher": "Sleep (journal)", "year": 2015}
+      ],
+      "relatedArticles": ["rest_days", "exercise_effort", "building_consistency"],
+      "relatedExercises": ["supine_spinal_twist", "childs_pose"],
+      "relatedWorkouts": ["evening_stretch"]
+    }
+  ]
+}

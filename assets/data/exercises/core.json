@@ -1,0 +1,474 @@
+{
+  "contentVersion": 1,
+  "items": [
+    {
+      "id": "forearm_plank",
+      "name": "Forearm Plank",
+      "description": "Holding a straight line on your forearms trains the deep core muscles that support your spine.",
+      "category": "core",
+      "difficulty": "beginner",
+      "primaryMuscles": ["abs"],
+      "secondaryMuscles": ["obliques", "shoulders", "glutes"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Lie face down, then prop yourself up on your forearms with elbows under your shoulders. Extend your legs behind you with toes tucked under.",
+      "steps": [
+        "Lift your hips so your body forms a straight line from head to heels.",
+        "Squeeze your glutes and gently brace your stomach.",
+        "Keep your neck long by looking at the floor just ahead of your hands.",
+        "Hold the position, then lower your knees to rest."
+      ],
+      "breathing": "Keep breathing slowly – never hold your breath during the hold.",
+      "mistakes": [
+        "Letting the hips sag.",
+        "Raising the hips too high.",
+        "Hunching the shoulders up toward the ears."
+      ],
+      "easier": "Lower to your knees while keeping a straight line from head to knees.",
+      "harder": "Hold for longer, or lift one foot slightly for a few seconds at a time.",
+      "cautions": [
+        "Stop if you feel lower-back pain; check your hip position or use the knee version."
+      ],
+      "mediaPath": "figure://forearm_plank",
+      "tags": ["core", "plank", "abs", "isometric", "floor", "beginner"]
+    },
+    {
+      "id": "high_plank",
+      "name": "Straight-Arm Plank",
+      "description": "A plank on straight arms that builds core strength along with shoulder stability.",
+      "category": "core",
+      "difficulty": "beginner",
+      "primaryMuscles": ["abs", "shoulders"],
+      "secondaryMuscles": ["chest", "obliques"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Start on hands and knees, then place your hands under your shoulders and step your feet back until your legs are straight.",
+      "steps": [
+        "Spread your fingers and press the floor away.",
+        "Brace your core and squeeze your glutes so your body is straight.",
+        "Keep your head in line with your spine.",
+        "Hold while breathing steadily, then lower your knees to rest."
+      ],
+      "breathing": "Breathe slowly and evenly throughout.",
+      "mistakes": [
+        "Letting the chest sink between the shoulders.",
+        "Sagging or piking the hips.",
+        "Locking the elbows hard."
+      ],
+      "easier": "Hold the plank from your knees, or place your hands on a raised surface.",
+      "harder": "Add slow, alternating shoulder taps without rocking the hips.",
+      "cautions": [
+        "Use fists, or switch to the Forearm Plank, if your wrists are uncomfortable."
+      ],
+      "mediaPath": "figure://high_plank",
+      "tags": ["core", "plank", "shoulders", "isometric", "beginner"]
+    },
+    {
+      "id": "side_plank",
+      "name": "Side Plank",
+      "description": "Balancing on one forearm on your side strengthens the sides of your core and hips.",
+      "category": "core",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["obliques"],
+      "secondaryMuscles": ["abductors", "shoulders", "abs"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 20,
+      "perSide": true,
+      "setup": "Lie on your side with your elbow under your shoulder and your legs straight and stacked.",
+      "steps": [
+        "Press your forearm into the floor and lift your hips.",
+        "Form a straight line from your head to your feet.",
+        "Keep your top hip stacked above the bottom hip.",
+        "Hold, lower with control, and then switch sides."
+      ],
+      "breathing": "Breathe steadily throughout the hold.",
+      "mistakes": [
+        "Letting the hips sag toward the floor.",
+        "Rolling the chest forward.",
+        "Shrugging the supporting shoulder."
+      ],
+      "easier": "Bend your knees and lift your hips from your knees instead of your feet.",
+      "harder": "Raise the top leg slightly, or hold for longer.",
+      "cautions": [
+        "If it causes shoulder pain, try the bent-knee version or skip it."
+      ],
+      "mediaPath": "figure://side_plank",
+      "tags": ["core", "obliques", "plank", "isometric", "floor"]
+    },
+    {
+      "id": "dead_bug",
+      "name": "Dead Bug",
+      "description": "A slow, controlled exercise lying on your back that teaches you to keep your trunk steady while your arms and legs move.",
+      "category": "core",
+      "difficulty": "beginner",
+      "primaryMuscles": ["abs"],
+      "secondaryMuscles": ["hip_flexors", "obliques"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultDurationSeconds": 30,
+      "defaultReps": 10,
+      "secondsPerRep": 4,
+      "perSide": false,
+      "setup": "Lie on your back with your arms reaching toward the ceiling and your knees bent at 90 degrees above your hips.",
+      "steps": [
+        "Gently press your lower back toward the floor and brace your core.",
+        "Slowly lower your right arm overhead and straighten your left leg toward the floor.",
+        "Go only as far as you can without your lower back arching.",
+        "Return to the start and repeat on the other side. Each side counts as one repetition."
+      ],
+      "breathing": "Breathe out as you extend and in as you return.",
+      "mistakes": [
+        "Arching the lower back off the floor.",
+        "Moving quickly.",
+        "Holding the breath."
+      ],
+      "easier": "Move only the legs or only the arms, and keep the range small.",
+      "harder": "Move more slowly, pausing for two seconds at full extension.",
+      "cautions": [
+        "Keep the range small if you feel your lower back lifting."
+      ],
+      "mediaPath": "figure://dead_bug",
+      "tags": ["core", "abs", "floor", "stability", "beginner", "low impact"]
+    },
+    {
+      "id": "bird_dog",
+      "name": "Bird Dog",
+      "description": "Reaching the opposite arm and leg from hands and knees builds balance and back stability.",
+      "category": "core",
+      "difficulty": "beginner",
+      "primaryMuscles": ["lower_back", "glutes"],
+      "secondaryMuscles": ["abs", "shoulders"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 10,
+      "secondsPerRep": 4,
+      "perSide": false,
+      "setup": "Start on hands and knees with hands under shoulders and knees under hips. Keep your back flat.",
+      "steps": [
+        "Brace your core.",
+        "Reach one arm forward and the opposite leg back until both are level with your body.",
+        "Hold for a moment without letting your hips tilt.",
+        "Return to the start and switch sides. Each side counts as one repetition."
+      ],
+      "breathing": "Breathe out as you reach and in as you return.",
+      "mistakes": [
+        "Arching the back to lift the leg higher.",
+        "Rotating the hips.",
+        "Rushing the movement."
+      ],
+      "easier": "Move only the leg or only the arm.",
+      "harder": "Hold each reach for three seconds, or draw the elbow to the knee between reaches.",
+      "cautions": [
+        "Use a mat or towel under your knees."
+      ],
+      "mediaPath": "figure://bird_dog",
+      "tags": ["core", "lower back", "balance", "quadruped", "beginner", "low impact"]
+    },
+    {
+      "id": "crunch",
+      "name": "Abdominal Crunch",
+      "description": "A small, controlled curl that works the front of the abdominal muscles.",
+      "category": "core",
+      "difficulty": "beginner",
+      "primaryMuscles": ["abs"],
+      "secondaryMuscles": ["obliques"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 12,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Lie on your back with knees bent and feet flat. Place your fingertips lightly behind your ears or cross your arms over your chest.",
+      "steps": [
+        "Gently brace your core.",
+        "Curl your head and shoulders off the floor, bringing your ribs toward your hips.",
+        "Pause briefly at the top.",
+        "Lower slowly back down."
+      ],
+      "breathing": "Breathe out as you curl up and in as you lower.",
+      "mistakes": [
+        "Pulling on the neck with the hands.",
+        "Sitting all the way up with momentum.",
+        "Tucking the chin tightly to the chest."
+      ],
+      "easier": "Reduce the range of the curl and keep your arms by your sides.",
+      "harder": "Hold the top position for two seconds.",
+      "cautions": [
+        "Keep your neck relaxed and support your head lightly if it tires."
+      ],
+      "mediaPath": "figure://crunch",
+      "tags": ["core", "abs", "floor", "beginner"]
+    },
+    {
+      "id": "bicycle_crunch",
+      "name": "Bicycle Crunch",
+      "description": "A twisting crunch with a pedalling leg action that works the abdominals and obliques.",
+      "category": "core",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["obliques", "abs"],
+      "secondaryMuscles": ["hip_flexors"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultDurationSeconds": 30,
+      "defaultReps": 16,
+      "secondsPerRep": 2,
+      "perSide": false,
+      "setup": "Lie on your back with fingertips lightly behind your ears, knees bent at 90 degrees above your hips, and shoulders slightly lifted.",
+      "steps": [
+        "Straighten one leg while bringing the opposite elbow toward the bent knee.",
+        "Rotate through your upper back rather than pulling on your head.",
+        "Switch sides in a slow pedalling motion.",
+        "Each twist to one side counts as one repetition."
+      ],
+      "breathing": "Breathe out with each twist.",
+      "mistakes": [
+        "Pulling on the head.",
+        "Pedalling too fast.",
+        "Letting the lower back arch as the leg straightens."
+      ],
+      "easier": "Keep the straightened leg higher, or move more slowly.",
+      "harder": "Hold each twist for two seconds.",
+      "cautions": [
+        "Keep your lower back in contact with the floor."
+      ],
+      "mediaPath": "figure://bicycle_crunch",
+      "tags": ["core", "obliques", "abs", "floor"]
+    },
+    {
+      "id": "reverse_crunch",
+      "name": "Reverse Crunch",
+      "description": "Curls the hips toward the chest to work the lower part of the abdominals.",
+      "category": "core",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["abs"],
+      "secondaryMuscles": ["hip_flexors", "obliques"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 10,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Lie on your back with arms by your sides, palms down, and knees bent at 90 degrees above your hips.",
+      "steps": [
+        "Brace your core.",
+        "Curl your hips off the floor, bringing your knees toward your chest.",
+        "Pause briefly.",
+        "Lower your hips slowly back down without letting your feet drop."
+      ],
+      "breathing": "Breathe out as you curl up and in as you lower.",
+      "mistakes": [
+        "Swinging the legs for momentum.",
+        "Lowering too fast.",
+        "Pushing hard through the hands."
+      ],
+      "easier": "Keep the movement small.",
+      "harder": "Slow the lowering phase to three seconds.",
+      "cautions": [
+        "Stop if you feel strain in your lower back."
+      ],
+      "mediaPath": "figure://reverse_crunch",
+      "tags": ["core", "abs", "floor"]
+    },
+    {
+      "id": "hollow_hold",
+      "name": "Hollow Body Hold",
+      "description": "A challenging hold that trains the whole front of the core to keep the lower back pressed down.",
+      "category": "core",
+      "difficulty": "advanced",
+      "primaryMuscles": ["abs"],
+      "secondaryMuscles": ["hip_flexors", "obliques"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 20,
+      "perSide": false,
+      "setup": "Lie on your back with your arms reaching overhead and your legs straight.",
+      "steps": [
+        "Press your lower back into the floor.",
+        "Lift your shoulders, arms and legs a few centimetres off the floor.",
+        "Keep your arms beside your ears and your legs together.",
+        "Hold while keeping the lower back down, then lower to rest."
+      ],
+      "breathing": "Take short, controlled breaths while keeping your core braced.",
+      "mistakes": [
+        "Letting the lower back lift off the floor.",
+        "Raising the legs too high.",
+        "Straining the neck."
+      ],
+      "easier": "Bend your knees, or keep your arms by your sides.",
+      "harder": "Lower your arms and legs closer to the floor while keeping your back down.",
+      "cautions": [
+        "If your lower back arches, bend your knees or raise your legs higher."
+      ],
+      "mediaPath": "figure://hollow_hold",
+      "tags": ["core", "abs", "isometric", "floor", "advanced"]
+    },
+    {
+      "id": "russian_twist",
+      "name": "Russian Twist",
+      "description": "A seated twist that works the sides of your core.",
+      "category": "core",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["obliques"],
+      "secondaryMuscles": ["abs", "hip_flexors"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 16,
+      "secondsPerRep": 2,
+      "perSide": false,
+      "setup": "Sit with knees bent and heels on the floor. Lean back slightly with a straight back and hold your hands together in front of your chest.",
+      "steps": [
+        "Brace your core.",
+        "Rotate your upper body to one side, bringing your hands toward the floor beside your hip.",
+        "Return through the centre and rotate to the other side.",
+        "Each turn counts as one repetition."
+      ],
+      "breathing": "Breathe out as you twist and in as you pass through the centre.",
+      "mistakes": [
+        "Rounding the back.",
+        "Moving only the arms instead of rotating the torso.",
+        "Moving too quickly."
+      ],
+      "easier": "Sit more upright and keep the range small.",
+      "harder": "Lift your feet off the floor, or hold a light dumbbell.",
+      "cautions": [
+        "Skip twisting exercises if they cause lower-back discomfort."
+      ],
+      "mediaPath": "figure://russian_twist",
+      "tags": ["core", "obliques", "rotation", "floor"]
+    },
+    {
+      "id": "superman_hold",
+      "name": "Superman Hold",
+      "description": "Lifting your arms and legs while lying face down strengthens the back of the body.",
+      "category": "core",
+      "difficulty": "beginner",
+      "primaryMuscles": ["lower_back", "glutes"],
+      "secondaryMuscles": ["upper_back", "hamstrings"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 20,
+      "defaultReps": 10,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Lie face down with your arms extended overhead and your legs straight. Rest your forehead on the floor.",
+      "steps": [
+        "Gently squeeze your glutes.",
+        "Lift your arms, chest and legs a few centimetres off the floor.",
+        "Keep your neck long by looking down at the floor.",
+        "Hold, then lower with control."
+      ],
+      "breathing": "Keep breathing steadily during the hold.",
+      "mistakes": [
+        "Lifting too high and crunching the lower back.",
+        "Lifting the head to look forward.",
+        "Holding the breath."
+      ],
+      "easier": "Lift only the arms or only the legs, or lift one arm and the opposite leg at a time.",
+      "harder": "Hold for longer.",
+      "cautions": [
+        "Keep the lift small and stop if you feel pinching in your lower back."
+      ],
+      "mediaPath": "figure://superman_hold",
+      "tags": ["core", "lower back", "glutes", "floor", "posture", "beginner"]
+    },
+    {
+      "id": "plank_shoulder_tap",
+      "name": "Plank Shoulder Tap",
+      "description": "Tapping each shoulder from a high plank challenges your core to resist twisting.",
+      "category": "core",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["abs", "shoulders"],
+      "secondaryMuscles": ["obliques", "chest"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultDurationSeconds": 30,
+      "defaultReps": 16,
+      "secondsPerRep": 2,
+      "perSide": false,
+      "setup": "Start in a high plank with hands under shoulders and feet slightly wider than hip-width.",
+      "steps": [
+        "Brace your core and squeeze your glutes.",
+        "Lift one hand and tap the opposite shoulder.",
+        "Place the hand back down and repeat with the other hand.",
+        "Keep your hips as still as possible. Each tap counts as one repetition."
+      ],
+      "breathing": "Breathe steadily, breathing out with each tap.",
+      "mistakes": [
+        "Rocking the hips from side to side.",
+        "Lifting the hips high.",
+        "Rushing the taps."
+      ],
+      "easier": "Perform the taps from your knees, or widen your feet.",
+      "harder": "Bring your feet closer together, or slow each tap down.",
+      "cautions": [
+        "Use fists or push-up handles if your wrists are uncomfortable."
+      ],
+      "mediaPath": "figure://plank_shoulder_tap",
+      "tags": ["core", "plank", "shoulders", "anti-rotation"]
+    },
+    {
+      "id": "standing_cross_crunch",
+      "name": "Standing Cross-Body Crunch",
+      "description": "A standing core move that brings each knee toward the opposite elbow – no floor work needed.",
+      "category": "core",
+      "difficulty": "beginner",
+      "primaryMuscles": ["obliques"],
+      "secondaryMuscles": ["hip_flexors", "abs"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultDurationSeconds": 30,
+      "defaultReps": 16,
+      "secondsPerRep": 2,
+      "perSide": false,
+      "setup": "Stand tall with feet hip-width apart and fingertips lightly behind your ears, elbows wide.",
+      "steps": [
+        "Lift your right knee up and across your body.",
+        "At the same time, rotate your torso to bring your left elbow toward the knee.",
+        "Return to standing and repeat on the other side.",
+        "Each knee lift counts as one repetition."
+      ],
+      "breathing": "Breathe out as your elbow and knee meet.",
+      "mistakes": [
+        "Pulling on the neck.",
+        "Rounding heavily through the back.",
+        "Rushing and losing balance."
+      ],
+      "easier": "Lift the knee lower, rotate less, and hold a wall with one hand if needed.",
+      "harder": "Move at a brisk pace while staying controlled.",
+      "cautions": [
+        "Hold onto a wall or chair if your balance is unsteady."
+      ],
+      "mediaPath": "figure://standing_cross_crunch",
+      "tags": ["core", "obliques", "standing", "low impact", "beginner"]
+    }
+  ]
+}

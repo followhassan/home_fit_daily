@@ -1,0 +1,113 @@
+{
+  "contentVersion": 1,
+  "items": [
+    {
+      "id": "when_to_stop",
+      "title": "Recognising when to stop",
+      "category": "safety",
+      "summary": "Normal exercise discomfort versus warning signs, and what to do if something feels wrong.",
+      "reviewStatus": "unreviewed",
+      "tags": ["safety", "pain", "warning signs", "stop", "dizziness"],
+      "sections": [
+        {
+          "heading": "Normal sensations",
+          "paragraphs": [
+            "Exercise is meant to feel like effort. Faster breathing, a higher heart rate, warmth, sweating and a burning feeling in working muscles are normal responses. So is muscle soreness a day or two after a new or harder workout. These sensations ease when you rest."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Stop exercising immediately if you notice",
+          "paragraphs": [],
+          "bullets": [
+            "Chest pain, pressure or tightness, or pain spreading to the arm, neck or jaw.",
+            "Unusual shortness of breath that does not settle with rest.",
+            "Dizziness, faintness, confusion or blurred vision.",
+            "A racing, irregular or pounding heartbeat that feels unusual for you.",
+            "Sharp, sudden or worsening pain, especially in a joint.",
+            "Feeling suddenly very unwell."
+          ]
+        },
+        {
+          "heading": "What to do",
+          "paragraphs": [
+            "Stop, sit or lie down somewhere safe, and rest. If symptoms such as chest pain, severe breathlessness or fainting occur, or do not improve quickly with rest, seek urgent medical help through your local emergency number. Do not return to exercise until you have been checked by a health professional.",
+            "For milder issues such as an uncomfortable joint, stop that exercise and try the easier variation or a different movement. If pain persists after rest, ask a qualified professional for advice before continuing."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Before you start",
+          "paragraphs": [
+            "A quick check before each session helps: are you feeling unusually unwell, feverish or exhausted? Is any joint more painful than usual? On those days, rest or choose a gentle mobility routine instead. Always warm up first, and build up the intensity gradually rather than starting with your hardest exercise."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "In the app",
+          "paragraphs": [
+            "You can pause, skip any exercise or finish a workout early at any time. Partial sessions are saved honestly and nothing is lost by stopping. Your safety always matters more than finishing a timer."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [
+        {"title": "UK Chief Medical Officers' Physical Activity Guidelines", "publisher": "Department of Health and Social Care (UK)", "year": 2019}
+      ],
+      "relatedArticles": ["health_conditions_advice", "exercise_effort", "rest_days"],
+      "relatedExercises": [],
+      "relatedWorkouts": []
+    },
+    {
+      "id": "health_conditions_advice",
+      "title": "Health conditions, injuries and getting advice",
+      "category": "safety",
+      "summary": "This app offers general fitness information. When it makes sense to get personalised advice before or during an exercise routine.",
+      "reviewStatus": "unreviewed",
+      "tags": ["safety", "health", "injury", "pregnancy", "medical advice"],
+      "sections": [
+        {
+          "heading": "What this app is – and is not",
+          "paragraphs": [
+            "HomeFit provides general exercise information and routines. It does not know your medical history and cannot assess whether an exercise is suitable for you. Preference-based suggestions in the app match workouts to the experience level, equipment and duration you chose; they are not medical personalisation, diagnosis or treatment."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "When to get advice first",
+          "paragraphs": [
+            "Many people can safely start gentle exercise on their own. However, it is sensible to talk to a doctor or another qualified health professional before starting or significantly changing a routine if any of the following apply:"
+          ],
+          "bullets": [
+            "You have a heart, lung, kidney or metabolic condition, or high blood pressure.",
+            "You have had chest pain, fainting or unexplained breathlessness.",
+            "You are pregnant or have recently given birth.",
+            "You have a current injury, recent surgery, or a joint or back problem that affects movement.",
+            "You take medicines that affect your heart rate, blood pressure or balance.",
+            "You are unsure whether exercise is right for you at the moment."
+          ]
+        },
+        {
+          "heading": "Injuries and rehabilitation",
+          "paragraphs": [
+            "The exercises here are not a rehabilitation programme. If you are recovering from an injury, a physiotherapist or similar professional can advise which movements suit your stage of recovery. Some exercises in this app may still be appropriate, but that judgement needs someone who can assess you."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Adapting as you go",
+          "paragraphs": [
+            "Even without a specific condition, listen to your body. Use easier variations, choose low-impact workouts, shorten sessions and add rest whenever you need to. Stop if something feels wrong, and seek advice if a problem persists."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [
+        {"title": "WHO guidelines on physical activity and sedentary behaviour", "publisher": "World Health Organization", "year": 2020}
+      ],
+      "relatedArticles": ["when_to_stop", "low_impact_alternatives", "choosing_difficulty"],
+      "relatedExercises": [],
+      "relatedWorkouts": ["five_minute_starter"]
+    }
+  ]
+}

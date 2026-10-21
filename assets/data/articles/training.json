@@ -1,0 +1,304 @@
+{
+  "contentVersion": 1,
+  "items": [
+    {
+      "id": "sets_and_reps",
+      "title": "Understanding sets and repetitions",
+      "category": "training",
+      "summary": "What reps, sets, rounds and rest mean, and how they are used in this app's workouts.",
+      "reviewStatus": "unreviewed",
+      "tags": ["sets", "reps", "rounds", "rest", "circuit", "basics"],
+      "sections": [
+        {
+          "heading": "The vocabulary",
+          "paragraphs": [],
+          "bullets": [
+            "Repetition (rep): one complete movement, such as standing up from one squat.",
+            "Set: a group of repetitions done without stopping, such as 10 squats.",
+            "Rest: the pause between sets or exercises.",
+            "Round: one pass through a list of exercises in a circuit.",
+            "Per side: for one-sided exercises, the number applies to each side – \"8 per side\" means 8 on the left and 8 on the right."
+          ]
+        },
+        {
+          "heading": "Circuits and straight sets",
+          "paragraphs": [
+            "Many workouts here are circuits: you do one set of each exercise in turn, then repeat the whole list for the number of rounds shown. Circuits keep your heart rate up and give each muscle group time to recover while you work another.",
+            "Other workouts use straight sets: you complete all sets of one exercise before moving to the next, with a rest between sets. This lets you focus on one movement at a time and is common in strength-focused sessions."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Timed and counted exercises",
+          "paragraphs": [
+            "Timed exercises count down automatically. Counted (repetition-based) exercises wait for you to tap Done, because only you know when you have finished. The app never assumes you completed repetitions you did not confirm.",
+            "Workout durations for repetition-based exercises are estimates based on an assumed pace of about three seconds per repetition (a little more for slower exercises). That is why durations are labelled \"About\"."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "How much rest",
+          "paragraphs": [
+            "Rest periods in the workouts are suggestions. If you are still breathing hard or your muscles feel shaky, use the +15 s button to extend the rest. If you feel ready sooner, skip the rest. For strength-focused sets, slightly longer rests usually help you keep good form."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [],
+      "relatedArticles": ["choosing_difficulty", "gradual_progression", "exercise_effort"],
+      "relatedExercises": ["bodyweight_squat", "reverse_lunge"],
+      "relatedWorkouts": ["strength_builder", "bodyweight_strength_basics"]
+    },
+    {
+      "id": "choosing_difficulty",
+      "title": "Choosing an appropriate difficulty",
+      "category": "training",
+      "summary": "How to pick the right level for each exercise so your workouts are challenging but sustainable.",
+      "reviewStatus": "unreviewed",
+      "tags": ["difficulty", "level", "beginner", "variations", "progression"],
+      "sections": [
+        {
+          "heading": "Labels are a guide, not a test",
+          "paragraphs": [
+            "Exercises and workouts are labelled Beginner, Intermediate or Advanced. These labels describe how demanding something usually is, but individuals vary a lot. Someone with strong legs might find advanced lower-body work comfortable while push-ups are still a struggle. It is normal to mix levels."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "The \"two reps in reserve\" idea",
+          "paragraphs": [
+            "A practical way to judge difficulty for strength exercises is to finish each set feeling you could have done about two more good repetitions. If you could have done many more, choose a harder variation or slow the tempo. If your form broke down before the end, choose an easier variation or do fewer reps.",
+            "For timed exercises, the last few seconds should feel challenging but controlled. If you have to stop early, that is fine – rest and use the easier variation next time."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Using variations",
+          "paragraphs": [
+            "Every exercise in the library includes an easier variation, and most include a harder one. Push-ups are a good example of a ladder: wall push-ups, incline push-ups, knee push-ups, then full push-ups. Move one step at a time, and only when the current step feels controlled for all your sets."
+          ],
+          "bullets": [
+            "Beginner exercises: suitable starting points for most people.",
+            "Intermediate exercises: assume some strength, balance and familiarity with basic movements.",
+            "Advanced exercises: demanding, often with jumping or high strength requirements."
+          ]
+        },
+        {
+          "heading": "When to stay at a level",
+          "paragraphs": [
+            "There is no rush to progress. Doing the same workout well for several weeks still builds fitness, especially when you are establishing a habit. Progress when the current level feels comfortable, not because a certain number of days has passed."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [],
+      "relatedArticles": ["gradual_progression", "exercise_effort", "low_impact_alternatives"],
+      "relatedExercises": ["wall_push_up", "incline_push_up", "knee_push_up", "push_up"],
+      "relatedWorkouts": []
+    },
+    {
+      "id": "low_impact_alternatives",
+      "title": "Low-impact alternatives",
+      "category": "training",
+      "summary": "You can raise your heart rate and build strength without jumping. Here are swaps for common high-impact moves.",
+      "reviewStatus": "unreviewed",
+      "tags": ["low impact", "no jumping", "joints", "apartment", "alternatives", "cardio"],
+      "sections": [
+        {
+          "heading": "What low impact means",
+          "paragraphs": [
+            "In this app, an exercise is labelled low impact when there is no jumping, hopping or running phase where both feet leave the ground. Low impact does not mean low effort: brisk step jacks, deep squats and fast skater steps can be hard work.",
+            "Low-impact training suits people who prefer to go easy on their joints, those who are returning to exercise, and anyone who wants to avoid noise for neighbours."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Swaps for high-impact moves",
+          "paragraphs": [],
+          "bullets": [
+            "Jumping jacks → Step Jacks.",
+            "High knees → Standing Knee Drive.",
+            "Skater hops → Skater Steps.",
+            "Burpees → Step-Back Burpees.",
+            "Jump squats → Bodyweight Squats with a rise onto the toes.",
+            "Butt kicks → walking heel lifts at a brisk pace."
+          ]
+        },
+        {
+          "heading": "Making low-impact work harder",
+          "paragraphs": [
+            "To increase intensity without jumping, move faster while staying controlled, use a bigger range of motion (bend deeper in squats and skater steps), add arm movements, shorten the rests, or add another round. Slow, controlled lowering phases also make strength exercises more demanding."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "A sample low-impact session",
+          "paragraphs": [
+            "If you are not sure how to combine these moves, try this structure: two minutes of marching and side step touches to warm up, then three rounds of step jacks, standing knee drives, skater steps and bodyweight squats for 30 to 40 seconds each, with short rests. Finish with a few standing stretches. The Low-Impact Cardio workout follows exactly this pattern."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Using the low-impact setting",
+          "paragraphs": [
+            "If you turn on the low-impact preference in your profile, suggestions on the home screen only include workouts where every exercise is low impact. You can also filter the workout and exercise lists by impact. The Low-Impact Movement plan provides four weeks of no-jump sessions."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [],
+      "relatedArticles": ["choosing_difficulty", "exercise_effort", "workout_space"],
+      "relatedExercises": ["step_jacks", "knee_drive_march", "skater_steps", "step_back_burpee"],
+      "relatedWorkouts": ["low_impact_cardio", "low_impact_endurance"]
+    },
+    {
+      "id": "gradual_progression",
+      "title": "Gradual progression",
+      "category": "training",
+      "summary": "Your body adapts to what you ask of it. Increasing the challenge in small steps keeps you improving and reduces the risk of overdoing it.",
+      "reviewStatus": "unreviewed",
+      "tags": ["progression", "overload", "progress", "strength", "planning"],
+      "sections": [
+        {
+          "heading": "The basic principle",
+          "paragraphs": [
+            "When you exercise regularly, the same workout gradually becomes easier as your body adapts. To keep improving, the challenge needs to increase over time. The key word is gradually: large jumps in volume or intensity are a common reason people end up sore, tired or injured."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Ways to progress",
+          "paragraphs": [
+            "Change only one thing at a time, and only when your current workouts feel controlled."
+          ],
+          "bullets": [
+            "Add a few repetitions or a few seconds to timed exercises.",
+            "Add one more set or round.",
+            "Move to a harder variation of an exercise.",
+            "Slow down the lowering phase of strength exercises.",
+            "Shorten rests slightly for cardio-focused workouts.",
+            "Add one more session per week."
+          ]
+        },
+        {
+          "heading": "How fast to progress",
+          "paragraphs": [
+            "A cautious approach is to stay with a workout for one to two weeks before changing anything, then make one small adjustment. The structured plans in this app follow this pattern: each week changes a little, and the final week consolidates rather than piling on more.",
+            "Progress is rarely a straight line. Some weeks you will feel stronger, others not. Sleep, stress and illness all affect performance. If a workout feels much harder than usual, it is fine to repeat an easier week."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Signs you progressed too quickly",
+          "paragraphs": [
+            "Soreness that lasts more than a few days, joint aches, persistent tiredness, or dreading workouts can all be signs that the increase was too large. Step back to the previous level for a week and progress more slowly."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [
+        {"title": "ACSM's Guidelines for Exercise Testing and Prescription, 11th edition", "publisher": "American College of Sports Medicine / Wolters Kluwer", "year": 2021}
+      ],
+      "relatedArticles": ["choosing_difficulty", "rest_days", "realistic_goals"],
+      "relatedExercises": ["push_up", "split_squat", "bulgarian_split_squat"],
+      "relatedWorkouts": ["strength_builder"]
+    },
+    {
+      "id": "exercise_effort",
+      "title": "Understanding exercise effort",
+      "category": "training",
+      "summary": "How to judge how hard you are working without a heart-rate monitor, and why most sessions should feel moderate.",
+      "reviewStatus": "unreviewed",
+      "tags": ["effort", "intensity", "talk test", "RPE", "cardio"],
+      "sections": [
+        {
+          "heading": "Rating your effort",
+          "paragraphs": [
+            "A simple way to describe effort is a scale from 0 (resting) to 10 (the hardest you could possibly work). This is called a rating of perceived exertion. It is personal: the same workout might feel like a 4 one day and a 6 the next, depending on sleep, stress and how recently you trained.",
+            "After each session, the app lets you rate the workout as Easy, Moderate or Hard. Looking back at these ratings over several weeks can show whether your routine is too gentle or too demanding."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "The talk test",
+          "paragraphs": [],
+          "bullets": [
+            "Light effort: you can talk or sing easily.",
+            "Moderate effort: you can talk in full sentences but not sing.",
+            "Vigorous effort: you can only say a few words before pausing for breath."
+          ]
+        },
+        {
+          "heading": "How hard should workouts feel?",
+          "paragraphs": [
+            "Public health guidelines, such as those from the World Health Organization, describe weekly amounts of moderate and vigorous activity for adults, plus muscle-strengthening activities on two or more days a week. Most of your sessions do not need to be exhausting. A mix of moderate sessions with occasional harder ones is sustainable for most people.",
+            "Strength exercises should feel challenging by the end of each set while still allowing good form. Mobility and stretching should feel comfortable and never painful."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "When effort feels wrong",
+          "paragraphs": [
+            "If an easy workout suddenly feels very hard, or you feel unusually breathless, dizzy or unwell, stop and rest. Effort that seems out of proportion can be a sign that you are tired, getting ill or need to take a break. See \"Recognising when to stop\" for warning signs that need attention."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [
+        {"title": "WHO guidelines on physical activity and sedentary behaviour", "publisher": "World Health Organization", "year": 2020},
+        {"title": "Borg's Perceived Exertion and Pain Scales", "publisher": "Human Kinetics", "year": 1998}
+      ],
+      "relatedArticles": ["breathing", "when_to_stop", "choosing_difficulty"],
+      "relatedExercises": [],
+      "relatedWorkouts": ["cardio_intervals", "low_impact_cardio"]
+    },
+    {
+      "id": "mobility_stretching",
+      "title": "Mobility and stretching",
+      "category": "training",
+      "summary": "The difference between mobility and flexibility work, and how to fit both into a home routine.",
+      "reviewStatus": "unreviewed",
+      "tags": ["mobility", "flexibility", "stretching", "stiffness", "posture"],
+      "sections": [
+        {
+          "heading": "Mobility versus flexibility",
+          "paragraphs": [
+            "Flexibility usually describes how far a muscle can lengthen, for example how close you can reach toward your toes. Mobility describes how well you can move a joint actively through its range – such as squatting deeply with control or rotating your upper back. Both are useful, and most people benefit from some of each."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Two kinds of stretching",
+          "paragraphs": [
+            "Dynamic stretches are controlled movements, such as leg swings or the lunge with rotation. They suit warm-ups because they prepare the body for movement. Static stretches are held positions, usually for 20 to 60 seconds. They suit cool-downs and dedicated stretching sessions."
+          ],
+          "bullets": [
+            "Move slowly and never bounce in a static stretch.",
+            "Aim for mild tension, not pain.",
+            "Breathe slowly; tension often eases on the breath out.",
+            "Stretch both sides, even if only one feels tight."
+          ]
+        },
+        {
+          "heading": "How often",
+          "paragraphs": [
+            "Short, regular sessions tend to work better than occasional long ones. A few minutes most days – after a workout, on a lunch break or before bed – is a practical target. The Mobility & Consistency plan builds this into five short sessions a week.",
+            "If you sit for long periods, the hip flexors, chest and upper back often feel stiff. Routines such as Desk Break and Shoulders & Upper Back focus on these areas."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Limits",
+          "paragraphs": [
+            "Range of motion varies naturally between people because of anatomy, age and history. The goal is comfortable, useful movement for your own body, not matching a picture. If a position causes pinching or pain, skip it and choose a different stretch."
+          ],
+          "bullets": []
+        }
+      ],
+      "references": [],
+      "relatedArticles": ["warming_up", "cooling_down", "rest_days"],
+      "relatedExercises": ["cat_cow", "worlds_greatest_stretch", "open_book", "kneeling_hip_flexor_stretch"],
+      "relatedWorkouts": ["full_body_mobility", "hip_mobility", "shoulder_mobility"]
+    }
+  ]
+}

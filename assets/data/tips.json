@@ -1,0 +1,25 @@
+{
+  "contentVersion": 1,
+  "items": [
+    {"id": "tip_start_small", "text": "A short workout you finish beats a long one you postpone. Five minutes still counts.", "articleId": "building_consistency"},
+    {"id": "tip_rest_days", "text": "Rest days are when your body adapts. Taking one as planned is part of training.", "articleId": "rest_days"},
+    {"id": "tip_easier_variation", "text": "Every exercise has an easier variation. Good form at an easier level builds more than struggling at a harder one.", "articleId": "choosing_difficulty"},
+    {"id": "tip_breathe", "text": "Breathe out on the effort and in on the return. If you are holding your breath, the exercise may be too hard.", "articleId": "breathing"},
+    {"id": "tip_warm_up", "text": "Spend a few minutes warming up – especially on cold mornings or after sitting for a long time.", "articleId": "warming_up"},
+    {"id": "tip_talk_test", "text": "At a moderate effort you can talk in full sentences but not sing.", "articleId": "exercise_effort"},
+    {"id": "tip_no_jumping", "text": "You can raise your heart rate without jumping. Try step jacks, knee drives and skater steps.", "articleId": "low_impact_alternatives"},
+    {"id": "tip_slow_down", "text": "Slow, controlled repetitions are usually more effective than fast ones.", "articleId": "technique_mistakes"},
+    {"id": "tip_sleep", "text": "A regular sleep schedule often makes workouts feel easier the next day.", "articleId": "sleep_recovery"},
+    {"id": "tip_stop", "text": "Chest pain, dizziness or unusual breathlessness are signs to stop and rest – not to push through.", "articleId": "when_to_stop"},
+    {"id": "tip_trends", "text": "Judge progress over weeks, not single days. Your weekly chart tells the real story.", "articleId": "tracking_progress"},
+    {"id": "tip_one_change", "text": "When progressing, change one thing at a time: a few more reps, one more round, or a harder variation.", "articleId": "gradual_progression"},
+    {"id": "tip_floor", "text": "A non-slip floor matters more than any equipment. Check rugs and socks before you start.", "articleId": "workout_space"},
+    {"id": "tip_stretch_gently", "text": "Stretches should feel like mild tension that eases as you breathe – never sharp pain.", "articleId": "mobility_stretching"},
+    {"id": "tip_water", "text": "Keep a drink nearby and sip during rests when you feel thirsty.", "articleId": "hydration"},
+    {"id": "tip_five_minutes", "text": "Low on motivation? Agree to five minutes. You can stop after that – or keep going.", "articleId": "motivation_dips"},
+    {"id": "tip_process_goals", "text": "Goals about actions – like three sessions a week – are easier to control than goals about appearance.", "articleId": "realistic_goals"},
+    {"id": "tip_cool_down", "text": "Finish with a minute of easy marching before you stretch to let your breathing settle.", "articleId": "cooling_down"},
+    {"id": "tip_desk", "text": "Sitting a lot? A two-minute movement break every hour or so can help you feel less stiff.", "articleId": "mobility_stretching"},
+    {"id": "tip_advice", "text": "If a health condition or injury affects how you move, ask a qualified professional what suits you.", "articleId": "health_conditions_advice"}
+  ]
+}

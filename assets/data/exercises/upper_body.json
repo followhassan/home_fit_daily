@@ -1,0 +1,479 @@
+{
+  "contentVersion": 1,
+  "items": [
+    {
+      "id": "wall_push_up",
+      "name": "Wall Push-Up",
+      "description": "The most accessible push-up variation, building chest, shoulder and arm strength while standing.",
+      "category": "upper_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["chest", "triceps"],
+      "secondaryMuscles": ["shoulders", "abs"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultDurationSeconds": 30,
+      "defaultReps": 10,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Stand an arm's length from a wall. Place your hands on the wall at shoulder height, slightly wider than your shoulders.",
+      "steps": [
+        "Step back a little so your body leans toward the wall in a straight line from head to heels.",
+        "Bend your elbows to bring your chest toward the wall, keeping the elbows about 45 degrees from your body.",
+        "Pause briefly when your nose is close to the wall.",
+        "Push the wall away to straighten your arms."
+      ],
+      "breathing": "Breathe in as you lower toward the wall and out as you push away.",
+      "mistakes": [
+        "Letting the hips sag or stick out.",
+        "Flaring the elbows straight out to the sides.",
+        "Dropping the head forward."
+      ],
+      "easier": "Stand closer to the wall.",
+      "harder": "Step your feet further from the wall, or progress to the Incline Push-Up.",
+      "cautions": [
+        "Make sure your shoes or socks will not slip on the floor."
+      ],
+      "mediaPath": "figure://wall_push_up",
+      "tags": ["upper body", "push-up", "chest", "beginner", "standing", "low impact"]
+    },
+    {
+      "id": "incline_push_up",
+      "name": "Incline Push-Up",
+      "description": "A push-up with the hands on a raised, stable surface – a step between wall push-ups and floor push-ups.",
+      "category": "upper_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["chest", "triceps"],
+      "secondaryMuscles": ["shoulders", "abs"],
+      "equipment": ["chair"],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 10,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Place a sturdy chair against a wall so it cannot slide (a kitchen counter or sturdy table also works). Put your hands on the edge, slightly wider than shoulder-width, and walk your feet back into a straight-body plank.",
+      "steps": [
+        "Brace your core and squeeze your glutes to keep your body straight.",
+        "Bend your elbows to lower your chest toward the edge of the surface.",
+        "Keep your elbows about 45 degrees from your sides.",
+        "Press back up until your arms are straight."
+      ],
+      "breathing": "Breathe in on the way down and out as you press up.",
+      "mistakes": [
+        "Using a chair that can tip or slide.",
+        "Letting the hips sag.",
+        "Bending the arms only a little."
+      ],
+      "easier": "Use a higher surface, such as a counter, so you are more upright.",
+      "harder": "Use a lower surface, or progress to Knee Push-Ups and then full Push-Ups.",
+      "cautions": [
+        "Always brace the chair against a wall, and never use a chair with wheels."
+      ],
+      "mediaPath": "figure://incline_push_up",
+      "tags": ["upper body", "push-up", "chest", "chair", "beginner"]
+    },
+    {
+      "id": "knee_push_up",
+      "name": "Knee Push-Up",
+      "description": "A floor push-up from the knees that builds strength toward the full version.",
+      "category": "upper_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["chest", "triceps"],
+      "secondaryMuscles": ["shoulders", "abs"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 8,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Kneel on a mat or folded towel. Place your hands on the floor slightly wider than your shoulders and walk them forward until your body forms a straight line from head to knees.",
+      "steps": [
+        "Brace your core and keep your hips in line with your shoulders and knees.",
+        "Bend your elbows to lower your chest toward the floor.",
+        "Lower until your chest is a few centimetres from the floor, or as far as you can control.",
+        "Press back up to straight arms."
+      ],
+      "breathing": "Breathe in as you lower and out as you press up.",
+      "mistakes": [
+        "Bending at the hips so your bottom sticks up.",
+        "Kneeling directly under the hips instead of leaning forward.",
+        "Letting the head drop toward the floor."
+      ],
+      "easier": "Go back to Incline Push-Ups, or lower only part of the way.",
+      "harder": "Hold the bottom position for a second, or progress to full Push-Ups.",
+      "cautions": [
+        "Pad your knees with a mat or folded towel.",
+        "Use fists or push-up handles if your wrists are uncomfortable."
+      ],
+      "mediaPath": "figure://knee_push_up",
+      "tags": ["upper body", "push-up", "chest", "triceps", "beginner", "floor"]
+    },
+    {
+      "id": "push_up",
+      "name": "Push-Up",
+      "description": "The classic bodyweight upper-body exercise for the chest, shoulders and triceps, with a strong core challenge.",
+      "category": "upper_body",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["chest", "triceps"],
+      "secondaryMuscles": ["shoulders", "abs"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultDurationSeconds": 30,
+      "defaultReps": 10,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Start in a high plank: hands slightly wider than your shoulders, arms straight, legs extended and feet together or hip-width apart.",
+      "steps": [
+        "Brace your core and glutes so your body is one straight line.",
+        "Bend your elbows, angling them about 45 degrees from your body, and lower your chest toward the floor.",
+        "Stop when your chest is just above the floor or at the lowest point you can control.",
+        "Press the floor away to return to straight arms."
+      ],
+      "breathing": "Breathe in as you lower and out as you push up.",
+      "mistakes": [
+        "Sagging hips or a raised bottom.",
+        "Flaring the elbows straight out to the sides.",
+        "Doing half-range repetitions."
+      ],
+      "easier": "Do Knee Push-Ups or Incline Push-Ups.",
+      "harder": "Slow the lowering to three seconds, or raise your feet on a low step.",
+      "cautions": [
+        "Use fists or push-up handles if your wrists are uncomfortable.",
+        "Stop if you feel pain at the front of the shoulder."
+      ],
+      "mediaPath": "figure://push_up",
+      "tags": ["upper body", "push-up", "chest", "triceps", "strength", "no equipment"]
+    },
+    {
+      "id": "pike_push_up",
+      "name": "Pike Push-Up",
+      "description": "A push-up performed with the hips raised, shifting the work toward the shoulders.",
+      "category": "upper_body",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["shoulders", "triceps"],
+      "secondaryMuscles": ["chest", "upper_back", "abs"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 8,
+      "secondsPerRep": 4,
+      "perSide": false,
+      "setup": "Start in an upside-down V shape: hands shoulder-width apart, hips high, legs as straight as is comfortable.",
+      "steps": [
+        "Walk your feet a little closer to your hands so your hips stay high.",
+        "Bend your elbows to lower the top of your head toward the floor just in front of your hands.",
+        "Keep your elbows angled back rather than flared out.",
+        "Press back up to straight arms."
+      ],
+      "breathing": "Breathe in as you lower and out as you press.",
+      "mistakes": [
+        "Letting the hips drop so it turns into a regular push-up.",
+        "Lowering too quickly toward the head.",
+        "Flaring the elbows wide."
+      ],
+      "easier": "Bend your knees, reduce the range, or place your hands on a sturdy step so the angle is less steep.",
+      "harder": "Raise your feet on a stable chair seat for a steeper angle.",
+      "cautions": [
+        "Lower slowly, and stop well before your head reaches the floor if control is difficult.",
+        "Avoid this exercise if head-down positions make you dizzy."
+      ],
+      "mediaPath": "figure://pike_push_up",
+      "tags": ["upper body", "shoulders", "push-up", "strength", "no equipment"]
+    },
+    {
+      "id": "chair_dip",
+      "name": "Chair Triceps Dip",
+      "description": "Uses a stable chair to work the backs of the arms with your own bodyweight.",
+      "category": "upper_body",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["triceps"],
+      "secondaryMuscles": ["shoulders", "chest"],
+      "equipment": ["chair"],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 10,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Place a sturdy chair against a wall. Sit on the front edge with your hands gripping the seat beside your hips, fingers forward. Slide your hips off the seat with knees bent and feet flat.",
+      "steps": [
+        "Keep your back close to the chair and your shoulders down, away from your ears.",
+        "Bend your elbows straight back to lower your body a short distance.",
+        "Stop when your upper arms are about parallel to the floor, or earlier if your shoulders feel strained.",
+        "Press through your palms to straighten your arms."
+      ],
+      "breathing": "Breathe in as you lower and out as you press up.",
+      "mistakes": [
+        "Drifting forward, away from the chair.",
+        "Letting the shoulders roll forward or shrug up.",
+        "Lowering too deep."
+      ],
+      "easier": "Keep your feet closer to the chair and use your legs to help.",
+      "harder": "Straighten your legs, keeping your heels on the floor.",
+      "cautions": [
+        "Use only a stable chair braced against a wall.",
+        "Skip this exercise if it causes pain at the front of the shoulder."
+      ],
+      "mediaPath": "figure://chair_dip",
+      "tags": ["upper body", "triceps", "chair", "arms", "strength"]
+    },
+    {
+      "id": "prone_y_raise",
+      "name": "Prone Y Raise",
+      "description": "A face-down arm raise that strengthens the upper back and supports good posture.",
+      "category": "upper_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["upper_back", "shoulders"],
+      "secondaryMuscles": ["lower_back"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 10,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Lie face down on a mat with your forehead resting on a folded towel. Stretch your arms overhead in a Y shape, thumbs pointing up.",
+      "steps": [
+        "Gently draw your shoulder blades down and back.",
+        "Lift both arms a few centimetres off the floor, keeping them straight.",
+        "Hold for one to two seconds without lifting your head.",
+        "Lower your arms slowly."
+      ],
+      "breathing": "Breathe out as you lift and in as you lower.",
+      "mistakes": [
+        "Lifting the head and bending the neck back.",
+        "Shrugging the shoulders toward the ears.",
+        "Using momentum to swing the arms."
+      ],
+      "easier": "Lift one arm at a time, or bend the elbows slightly.",
+      "harder": "Hold each lift for three to five seconds.",
+      "cautions": [
+        "Keep the lift small; this is a precise, gentle movement."
+      ],
+      "mediaPath": "figure://prone_y_raise",
+      "tags": ["upper body", "upper back", "posture", "shoulders", "floor", "no equipment"]
+    },
+    {
+      "id": "reverse_snow_angel",
+      "name": "Reverse Snow Angel",
+      "description": "Sweeps the arms from your hips to overhead while lying face down to strengthen the upper back and the backs of the shoulders.",
+      "category": "upper_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["upper_back", "shoulders"],
+      "secondaryMuscles": ["lower_back"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 8,
+      "secondsPerRep": 4,
+      "perSide": false,
+      "setup": "Lie face down with your forehead on a folded towel and your arms by your sides, palms facing down.",
+      "steps": [
+        "Lift your hands and arms slightly off the floor.",
+        "Sweep your arms out wide and up toward your head in a slow arc, like making a snow angel.",
+        "Turn your palms as your arms pass shoulder height so the movement stays comfortable.",
+        "Reverse the arc back to your hips, keeping the arms lifted."
+      ],
+      "breathing": "Breathe steadily, breathing out as the arms travel overhead.",
+      "mistakes": [
+        "Lifting the chest and arching the lower back.",
+        "Rushing the arc.",
+        "Resting the arms on the floor in the middle of a repetition."
+      ],
+      "easier": "Reduce the range and stop at shoulder height.",
+      "harder": "Pause for two seconds in the overhead position.",
+      "cautions": [
+        "Keep the range pain-free for your shoulders."
+      ],
+      "mediaPath": "figure://reverse_snow_angel",
+      "tags": ["upper body", "upper back", "shoulders", "posture", "floor"]
+    },
+    {
+      "id": "band_pull_apart",
+      "name": "Band Pull-Apart",
+      "description": "Pulls a resistance band apart in front of the chest to strengthen the upper back and the backs of the shoulders.",
+      "category": "upper_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["upper_back", "shoulders"],
+      "secondaryMuscles": [],
+      "equipment": ["resistance_band"],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 12,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Stand tall holding a light resistance band in front of your chest with straight arms, hands about shoulder-width apart.",
+      "steps": [
+        "Squeeze your shoulder blades together and pull the band apart by moving your hands out to the sides.",
+        "Keep your arms nearly straight and at chest height.",
+        "Pause when the band reaches or nears your chest.",
+        "Return slowly to the start, keeping tension in the band."
+      ],
+      "breathing": "Breathe out as you pull apart and in as you return.",
+      "mistakes": [
+        "Shrugging the shoulders.",
+        "Bending the elbows to make it easier.",
+        "Letting the band snap back quickly."
+      ],
+      "easier": "Move your hands further apart on the band, or use a lighter band.",
+      "harder": "Move your hands closer together, or use a stronger band.",
+      "cautions": [
+        "Check the band for nicks or tears before use and keep it away from your face."
+      ],
+      "mediaPath": "figure://band_pull_apart",
+      "tags": ["upper body", "resistance band", "upper back", "posture", "equipment"]
+    },
+    {
+      "id": "band_row",
+      "name": "Seated Band Row",
+      "description": "A seated rowing movement with a resistance band looped around the feet, working the back and arms.",
+      "category": "upper_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["lats", "upper_back"],
+      "secondaryMuscles": ["biceps"],
+      "equipment": ["resistance_band"],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 12,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Sit on the floor with legs extended and knees slightly bent. Loop the middle of the band around the soles of your feet and hold one end in each hand.",
+      "steps": [
+        "Sit tall with your chest lifted and shoulders down.",
+        "Pull the band toward your lower ribs, driving your elbows back close to your body.",
+        "Squeeze your shoulder blades together at the end of the pull.",
+        "Straighten your arms slowly to return."
+      ],
+      "breathing": "Breathe out as you pull and in as you return.",
+      "mistakes": [
+        "Leaning back to pull with the body.",
+        "Rounding the shoulders forward.",
+        "Letting the band slip off the feet."
+      ],
+      "easier": "Use a lighter band, or hold the band further from your feet.",
+      "harder": "Shorten the band or use a stronger one, and pause at the end of each pull.",
+      "cautions": [
+        "Make sure the band is secure around your feet before you pull."
+      ],
+      "mediaPath": "figure://band_row",
+      "tags": ["upper body", "resistance band", "back", "row", "equipment"]
+    },
+    {
+      "id": "dumbbell_bent_over_row",
+      "name": "Dumbbell Bent-Over Row",
+      "description": "Rows a pair of dumbbells toward the hips from a hinged position to build back and arm strength.",
+      "category": "upper_body",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["lats", "upper_back"],
+      "secondaryMuscles": ["biceps", "lower_back"],
+      "equipment": ["dumbbells"],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 10,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Hold a dumbbell in each hand. Stand with feet hip-width apart, knees softly bent, and hinge forward at the hips until your torso is at roughly 45 degrees. Let the weights hang below your shoulders.",
+      "steps": [
+        "Brace your core and keep your back flat.",
+        "Pull the dumbbells toward your hips, driving your elbows back.",
+        "Squeeze your shoulder blades together at the top.",
+        "Lower the weights slowly until your arms are straight."
+      ],
+      "breathing": "Breathe out as you row and in as you lower.",
+      "mistakes": [
+        "Rounding the back.",
+        "Jerking the weights up with the body.",
+        "Shrugging instead of rowing."
+      ],
+      "easier": "Use lighter weights, or support one hand on a chair and row one arm at a time.",
+      "harder": "Pause for two seconds at the top of each row.",
+      "cautions": [
+        "Keep your back flat. If the hinged position bothers your lower back, row one arm at a time with the other hand supported on a chair."
+      ],
+      "mediaPath": "figure://dumbbell_bent_over_row",
+      "tags": ["upper body", "dumbbells", "back", "row", "strength", "equipment"]
+    },
+    {
+      "id": "dumbbell_shoulder_press",
+      "name": "Dumbbell Shoulder Press",
+      "description": "Presses dumbbells overhead to build shoulder and arm strength, standing or seated on a chair.",
+      "category": "upper_body",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["shoulders", "triceps"],
+      "secondaryMuscles": ["upper_back", "abs"],
+      "equipment": ["dumbbells"],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 10,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Sit tall on a sturdy chair or stand with feet hip-width apart. Hold the dumbbells at shoulder height, palms facing forward or toward each other.",
+      "steps": [
+        "Brace your core and keep your ribs down.",
+        "Press the dumbbells straight up until your arms are almost fully extended overhead.",
+        "Keep your head neutral and finish with the weights roughly above your shoulders.",
+        "Lower them slowly back to shoulder height."
+      ],
+      "breathing": "Breathe out as you press and in as you lower.",
+      "mistakes": [
+        "Arching the lower back to push the weights up.",
+        "Pressing the weights forward instead of up.",
+        "Knocking the dumbbells together at the top."
+      ],
+      "easier": "Use lighter weights or press one arm at a time.",
+      "harder": "Slow the lowering phase to three seconds.",
+      "cautions": [
+        "Skip overhead pressing if it causes shoulder pain, and seek qualified advice."
+      ],
+      "mediaPath": "figure://dumbbell_shoulder_press",
+      "tags": ["upper body", "dumbbells", "shoulders", "press", "strength", "equipment"]
+    },
+    {
+      "id": "dumbbell_biceps_curl",
+      "name": "Dumbbell Biceps Curl",
+      "description": "A simple curl that strengthens the fronts of the upper arms.",
+      "category": "upper_body",
+      "difficulty": "beginner",
+      "primaryMuscles": ["biceps"],
+      "secondaryMuscles": ["forearms"],
+      "equipment": ["dumbbells"],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 12,
+      "secondsPerRep": 3,
+      "perSide": false,
+      "setup": "Stand tall with feet hip-width apart, holding a dumbbell in each hand with your arms by your sides and palms facing forward.",
+      "steps": [
+        "Keep your elbows close to your sides.",
+        "Curl the weights up toward your shoulders by bending at the elbows.",
+        "Squeeze briefly at the top.",
+        "Lower the weights slowly until your arms are straight."
+      ],
+      "breathing": "Breathe out as you curl up and in as you lower.",
+      "mistakes": [
+        "Swinging the body to lift the weight.",
+        "Letting the elbows drift forward.",
+        "Dropping the weights quickly."
+      ],
+      "easier": "Use lighter weights or curl one arm at a time.",
+      "harder": "Lower the weights over three seconds, or pause halfway up.",
+      "cautions": [
+        "Choose a weight you can lift without swinging."
+      ],
+      "mediaPath": "figure://dumbbell_biceps_curl",
+      "tags": ["upper body", "dumbbells", "arms", "biceps", "equipment"]
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "contentVersion": 1,
+  "items": [
+    {
+      "id": "childs_pose",
+      "name": "Child's Pose",
+      "description": "A restful kneeling stretch for the back, hips and shoulders.",
+      "category": "stretching",
+      "difficulty": "beginner",
+      "primaryMuscles": ["lower_back", "lats"],
+      "secondaryMuscles": ["glutes", "shoulders"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 45,
+      "perSide": false,
+      "setup": "Kneel on a mat with your big toes together and knees apart, then sit back toward your heels.",
+      "steps": [
+        "Walk your hands forward and lower your chest toward the floor.",
+        "Rest your forehead on the floor or on a cushion.",
+        "Keep your arms reaching forward or rest them by your sides.",
+        "Breathe slowly and let your back relax."
+      ],
+      "breathing": "Breathe deeply into your back and sides.",
+      "mistakes": [
+        "Forcing the hips down to the heels.",
+        "Tensing the shoulders.",
+        "Holding the breath."
+      ],
+      "easier": "Place a cushion between your heels and hips, or under your chest.",
+      "cautions": [
+        "If kneeling is painful, use the Lying Figure-Four Stretch instead."
+      ],
+      "mediaPath": "figure://childs_pose",
+      "tags": ["stretching", "cool-down", "back", "relaxation", "beginner"]
+    },
+    {
+      "id": "standing_quad_stretch",
+      "name": "Standing Quad Stretch",
+      "description": "Stretches the front of the thigh while standing – useful after squats, lunges and cardio.",
+      "category": "stretching",
+      "difficulty": "beginner",
+      "primaryMuscles": ["quadriceps"],
+      "secondaryMuscles": ["hip_flexors"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": true,
+      "setup": "Stand tall next to a wall or chair and hold it with one hand.",
+      "steps": [
+        "Bend your outside knee and bring your heel toward your glutes.",
+        "Hold your ankle or sock, keeping your knees side by side.",
+        "Gently tuck your tailbone under until you feel a stretch at the front of the thigh.",
+        "Hold, then switch legs."
+      ],
+      "breathing": "Breathe slowly and let the muscle relax a little more with each breath out.",
+      "mistakes": [
+        "Pulling the heel hard into the glutes.",
+        "Arching the lower back.",
+        "Letting the knee drift out to the side."
+      ],
+      "easier": "Rest your foot on a chair seat behind you instead of holding it, or loop a towel around your ankle.",
+      "cautions": [
+        "Stop if you feel knee pain, and hold the foot lower."
+      ],
+      "mediaPath": "figure://standing_quad_stretch",
+      "tags": ["stretching", "cool-down", "quadriceps", "standing", "legs"]
+    },
+    {
+      "id": "seated_hamstring_stretch",
+      "name": "Seated Hamstring Stretch",
+      "description": "A seated stretch for the back of the thigh.",
+      "category": "stretching",
+      "difficulty": "beginner",
+      "primaryMuscles": ["hamstrings"],
+      "secondaryMuscles": ["calves", "lower_back"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": true,
+      "setup": "Sit on the floor with one leg straight and the other bent, with the sole of that foot resting against the inner thigh of the straight leg.",
+      "steps": [
+        "Sit tall and hinge forward from your hips over the straight leg.",
+        "Reach toward your shin or foot without rounding your back excessively.",
+        "Stop when you feel a gentle stretch along the back of the thigh.",
+        "Hold, then switch legs."
+      ],
+      "breathing": "Breathe out to ease slightly deeper as the muscle relaxes.",
+      "mistakes": [
+        "Bouncing in and out of the position.",
+        "Rounding from the upper back instead of hinging at the hips.",
+        "Locking the knee hard."
+      ],
+      "easier": "Bend the straight knee slightly, or loop a towel around the foot.",
+      "cautions": [
+        "A stretch should feel mild to moderate, never sharp."
+      ],
+      "mediaPath": "figure://seated_hamstring_stretch",
+      "tags": ["stretching", "cool-down", "hamstrings", "floor", "seated"]
+    },
+    {
+      "id": "figure_four_stretch",
+      "name": "Lying Figure-Four Stretch",
+      "description": "A gentle lying stretch for the glutes and outer hips.",
+      "category": "stretching",
+      "difficulty": "beginner",
+      "primaryMuscles": ["glutes"],
+      "secondaryMuscles": ["lower_back", "abductors"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": true,
+      "setup": "Lie on your back with knees bent and feet flat on the floor.",
+      "steps": [
+        "Cross one ankle over the opposite knee.",
+        "Lift the other foot off the floor and hold behind that thigh.",
+        "Gently draw both legs toward you until you feel a stretch in the glute of the crossed leg.",
+        "Hold, then switch sides."
+      ],
+      "breathing": "Breathe slowly and keep your shoulders and head relaxed on the floor.",
+      "mistakes": [
+        "Lifting the head and shoulders.",
+        "Pulling too hard.",
+        "Letting the crossed foot go floppy."
+      ],
+      "easier": "Keep the bottom foot on the floor.",
+      "cautions": [
+        "Avoid pushing on the crossed knee if it causes discomfort."
+      ],
+      "mediaPath": "figure://figure_four_stretch",
+      "tags": ["stretching", "cool-down", "glutes", "hips", "floor"]
+    },
+    {
+      "id": "cross_body_shoulder_stretch",
+      "name": "Cross-Body Shoulder Stretch",
+      "description": "Stretches the back of the shoulder by drawing one arm across your chest.",
+      "category": "stretching",
+      "difficulty": "beginner",
+      "primaryMuscles": ["shoulders"],
+      "secondaryMuscles": ["upper_back"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": true,
+      "setup": "Stand or sit tall with your shoulders relaxed.",
+      "steps": [
+        "Bring one arm across your chest at shoulder height.",
+        "Hold it just above the elbow with your other hand.",
+        "Gently draw the arm closer to your chest.",
+        "Hold, then switch arms."
+      ],
+      "breathing": "Breathe slowly and keep your shoulders down.",
+      "mistakes": [
+        "Pressing directly on the elbow joint.",
+        "Shrugging.",
+        "Twisting the torso."
+      ],
+      "easier": "Hold the arm a little lower, below shoulder height.",
+      "cautions": [
+        "Stop if you feel pinching at the front of the shoulder."
+      ],
+      "mediaPath": "figure://cross_body_shoulder_stretch",
+      "tags": ["stretching", "cool-down", "shoulders", "desk break", "standing"]
+    },
+    {
+      "id": "overhead_triceps_stretch",
+      "name": "Overhead Triceps Stretch",
+      "description": "Stretches the back of the upper arm and the side of the upper back.",
+      "category": "stretching",
+      "difficulty": "beginner",
+      "primaryMuscles": ["triceps"],
+      "secondaryMuscles": ["lats", "shoulders"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": true,
+      "setup": "Stand or sit tall with your feet hip-width apart and your shoulders relaxed.",
+      "steps": [
+        "Raise one arm overhead and bend the elbow so your hand reaches down toward your upper back.",
+        "Use your other hand to press the elbow back gently.",
+        "Keep your head upright and your ribs down.",
+        "Hold, then switch arms."
+      ],
+      "breathing": "Breathe slowly and evenly.",
+      "mistakes": [
+        "Arching the lower back.",
+        "Pushing the head forward.",
+        "Forcing the elbow back."
+      ],
+      "easier": "Place your hand on your shoulder instead of reaching down your back.",
+      "cautions": [
+        "Skip this stretch if raising your arm overhead is painful."
+      ],
+      "mediaPath": "figure://overhead_triceps_stretch",
+      "tags": ["stretching", "cool-down", "arms", "triceps", "standing"]
+    },
+    {
+      "id": "chest_opener_stretch",
+      "name": "Clasped-Hands Chest Opener",
+      "description": "Opens the front of the chest and shoulders – a helpful counterbalance to sitting and pushing exercises.",
+      "category": "stretching",
+      "difficulty": "beginner",
+      "primaryMuscles": ["chest", "shoulders"],
+      "secondaryMuscles": ["biceps"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Stand tall with feet hip-width apart.",
+      "steps": [
+        "Clasp your hands behind your lower back, or hold a towel between them.",
+        "Draw your shoulder blades gently together.",
+        "Lift your chest and raise your hands slightly away from your back.",
+        "Hold while keeping your chin level."
+      ],
+      "breathing": "Breathe deeply into your chest.",
+      "mistakes": [
+        "Arching the lower back.",
+        "Pushing the chin forward.",
+        "Lifting the arms too high."
+      ],
+      "easier": "Hold a towel with your hands wider apart.",
+      "cautions": [
+        "Keep the stretch gentle at the front of the shoulders."
+      ],
+      "mediaPath": "figure://chest_opener_stretch",
+      "tags": ["stretching", "chest", "posture", "desk break", "standing"]
+    },
+    {
+      "id": "sphinx_stretch",
+      "name": "Sphinx Stretch",
+      "description": "A gentle back bend on your forearms that stretches the front of the body and mobilises the spine.",
+      "category": "stretching",
+      "difficulty": "beginner",
+      "primaryMuscles": ["abs"],
+      "secondaryMuscles": ["lower_back", "hip_flexors"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Lie face down with your legs extended and your forearms on the floor, elbows under your shoulders.",
+      "steps": [
+        "Press your forearms down and gently lift your chest.",
+        "Keep your hips and legs relaxed on the floor.",
+        "Lengthen through the top of your head and keep your shoulders away from your ears.",
+        "Hold, then lower down."
+      ],
+      "breathing": "Breathe slowly into your belly.",
+      "mistakes": [
+        "Shrugging the shoulders.",
+        "Clenching the glutes hard.",
+        "Tilting the head back to look up."
+      ],
+      "easier": "Place a cushion under your chest for a smaller bend.",
+      "cautions": [
+        "Reduce or skip the lift if back bends cause discomfort."
+      ],
+      "mediaPath": "figure://sphinx_stretch",
+      "tags": ["stretching", "spine", "cool-down", "floor", "abs"]
+    },
+    {
+      "id": "standing_calf_stretch",
+      "name": "Wall Calf Stretch",
+      "description": "A classic stretch for the calf muscles, using a wall for support.",
+      "category": "stretching",
+      "difficulty": "beginner",
+      "primaryMuscles": ["calves"],
+      "secondaryMuscles": [],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": true,
+      "setup": "Stand facing a wall and place your hands on it at shoulder height.",
+      "steps": [
+        "Step one foot back, keeping that leg straight and the heel down.",
+        "Bend your front knee and lean gently toward the wall.",
+        "Keep both feet pointing forward.",
+        "Hold, then switch legs."
+      ],
+      "breathing": "Breathe slowly and relax into the stretch.",
+      "mistakes": [
+        "Lifting the back heel.",
+        "Turning the back foot outward.",
+        "Bouncing in and out of the position."
+      ],
+      "easier": "Shorten your stance.",
+      "cautions": [
+        "Ease off if you feel pain at the back of the ankle."
+      ],
+      "mediaPath": "figure://standing_calf_stretch",
+      "tags": ["stretching", "calves", "cool-down", "wall", "legs"]
+    },
+    {
+      "id": "butterfly_stretch",
+      "name": "Butterfly Stretch",
+      "description": "A seated stretch for the inner thighs and hips.",
+      "category": "stretching",
+      "difficulty": "beginner",
+      "primaryMuscles": ["adductors"],
+      "secondaryMuscles": [],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Sit tall on the floor with the soles of your feet together and your knees falling out to the sides.",
+      "steps": [
+        "Hold your ankles or feet.",
+        "Sit tall, lengthening through your spine.",
+        "Hinge gently forward from the hips until you feel a stretch in the inner thighs.",
+        "Hold, keeping the movement gentle."
+      ],
+      "breathing": "Breathe slowly and let your knees relax with each breath out.",
+      "mistakes": [
+        "Pushing the knees down with the hands.",
+        "Rounding the back.",
+        "Bouncing the knees."
+      ],
+      "easier": "Move your feet further from your body, or sit on a cushion.",
+      "cautions": [
+        "Avoid pressing on your knees."
+      ],
+      "mediaPath": "figure://butterfly_stretch",
+      "tags": ["stretching", "inner thighs", "hips", "floor", "cool-down"]
+    },
+    {
+      "id": "supine_spinal_twist",
+      "name": "Lying Spinal Twist",
+      "description": "A relaxing twist lying on your back that eases the lower back and hips.",
+      "category": "stretching",
+      "difficulty": "beginner",
+      "primaryMuscles": ["lower_back", "obliques"],
+      "secondaryMuscles": ["glutes", "chest"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": true,
+      "setup": "Lie on your back with your arms out to the sides at shoulder height and your knees bent, feet on the floor.",
+      "steps": [
+        "Let both knees lower slowly to one side.",
+        "Keep both shoulders resting on the floor.",
+        "Turn your head away from your knees if that is comfortable.",
+        "Hold, then bring the knees back up and switch sides."
+      ],
+      "breathing": "Breathe slowly and deeply.",
+      "mistakes": [
+        "Forcing the knees to the floor.",
+        "Lifting the opposite shoulder high.",
+        "Holding the breath."
+      ],
+      "easier": "Place a cushion under your knees.",
+      "cautions": [
+        "Move slowly into and out of the twist."
+      ],
+      "mediaPath": "figure://supine_spinal_twist",
+      "tags": ["stretching", "spine", "lower back", "cool-down", "floor", "relaxation"]
+    },
+    {
+      "id": "downward_dog",
+      "name": "Downward Dog",
+      "description": "An upside-down V position that stretches the backs of the legs and lengthens the spine and shoulders.",
+      "category": "stretching",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["hamstrings", "calves"],
+      "secondaryMuscles": ["shoulders", "lats"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Start on hands and knees with your hands slightly ahead of your shoulders.",
+      "steps": [
+        "Tuck your toes and lift your hips up and back.",
+        "Straighten your legs as much as is comfortable, keeping a slight bend if needed.",
+        "Press the floor away and let your head hang between your arms.",
+        "Hold, then lower your knees to rest."
+      ],
+      "breathing": "Breathe slowly and steadily.",
+      "mistakes": [
+        "Rounding the back to straighten the legs.",
+        "Sinking into the shoulders.",
+        "Forcing the heels to the floor."
+      ],
+      "easier": "Keep your knees bent and place your hands on a raised surface.",
+      "harder": "Hold for longer, or slowly pedal the feet.",
+      "cautions": [
+        "Rise slowly if you feel dizzy.",
+        "Use fists if your wrists are uncomfortable."
+      ],
+      "mediaPath": "figure://downward_dog",
+      "tags": ["stretching", "hamstrings", "calves", "shoulders", "yoga"]
+    },
+    {
+      "id": "kneeling_hip_flexor_stretch",
+      "name": "Kneeling Hip Flexor Stretch",
+      "description": "Stretches the front of the hip, which can feel tight after long periods of sitting.",
+      "category": "stretching",
+      "difficulty": "beginner",
+      "primaryMuscles": ["hip_flexors"],
+      "secondaryMuscles": ["quadriceps"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": true,
+      "setup": "Kneel on one knee on a mat with the other foot in front, both knees bent at about 90 degrees.",
+      "steps": [
+        "Gently tuck your tailbone under and squeeze the glute of the back leg.",
+        "Shift your hips slightly forward until you feel a stretch at the front of the back hip.",
+        "Keep your torso upright.",
+        "Hold, then switch sides."
+      ],
+      "breathing": "Breathe slowly, easing a little deeper as you breathe out.",
+      "mistakes": [
+        "Arching the lower back.",
+        "Leaning far forward.",
+        "Letting the front knee cave in."
+      ],
+      "easier": "Place a cushion under the back knee and shift forward less.",
+      "harder": "Raise the arm on the same side as the back knee overhead.",
+      "cautions": [
+        "Pad the kneeling knee."
+      ],
+      "mediaPath": "figure://kneeling_hip_flexor_stretch",
+      "tags": ["stretching", "hip flexors", "sitting recovery", "cool-down", "floor"]
+    },
+    {
+      "id": "standing_side_stretch",
+      "name": "Standing Side Stretch",
+      "description": "A simple overhead reach and side bend to stretch along the sides of the body.",
+      "category": "stretching",
+      "difficulty": "beginner",
+      "primaryMuscles": ["obliques", "lats"],
+      "secondaryMuscles": ["shoulders"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 20,
+      "perSide": true,
+      "setup": "Stand tall with feet hip-width apart.",
+      "steps": [
+        "Raise one arm overhead.",
+        "Lean gently to the opposite side, reaching up and over.",
+        "Keep your hips centred and both feet on the floor.",
+        "Hold, return to the centre, then switch sides."
+      ],
+      "breathing": "Breathe into the stretched side of your body.",
+      "mistakes": [
+        "Leaning forward or backward instead of directly sideways.",
+        "Collapsing at the waist.",
+        "Shrugging."
+      ],
+      "easier": "Rest your other hand on your hip for support.",
+      "cautions": [
+        "Keep the bend gentle if you have back discomfort."
+      ],
+      "mediaPath": "figure://standing_side_stretch",
+      "tags": ["stretching", "sides", "desk break", "standing", "cool-down"]
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "contentVersion": 1,
+  "items": [
+    {
+      "id": "cat_cow",
+      "name": "Cat-Cow",
+      "description": "Slowly rounding and arching the spine on hands and knees to improve spinal mobility.",
+      "category": "mobility",
+      "difficulty": "beginner",
+      "primaryMuscles": ["lower_back", "upper_back"],
+      "secondaryMuscles": ["abs"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 45,
+      "defaultReps": 8,
+      "secondsPerRep": 5,
+      "perSide": false,
+      "setup": "Start on hands and knees with hands under shoulders and knees under hips.",
+      "steps": [
+        "Breathe in and let your belly sink toward the floor while lifting your chest and gaze slightly (cow).",
+        "Breathe out and round your back toward the ceiling, tucking your chin and tailbone (cat).",
+        "Move slowly between the two positions.",
+        "Keep your arms straight and your weight evenly spread."
+      ],
+      "breathing": "Breathe in as you arch and out as you round.",
+      "mistakes": [
+        "Rushing the movement.",
+        "Forcing the neck backward.",
+        "Bending the elbows."
+      ],
+      "easier": "Make the movement smaller, or do it seated with your hands on your knees.",
+      "cautions": [
+        "Stay within a comfortable range for your back and neck."
+      ],
+      "mediaPath": "figure://cat_cow",
+      "tags": ["mobility", "spine", "back", "quadruped", "beginner", "stretch"]
+    },
+    {
+      "id": "worlds_greatest_stretch",
+      "name": "Lunge with Rotation",
+      "description": "A flowing lunge with a reach and twist that opens the hips, hamstrings and upper back.",
+      "category": "mobility",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["hip_flexors", "upper_back"],
+      "secondaryMuscles": ["hamstrings", "glutes", "adductors"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 5,
+      "secondsPerRep": 6,
+      "perSide": true,
+      "setup": "Start in a high plank. Step one foot forward outside the hand on the same side into a deep lunge, lowering the back knee to the floor if needed.",
+      "steps": [
+        "Keep the opposite hand on the floor.",
+        "Rotate your chest toward the front leg and reach that arm toward the ceiling.",
+        "Bring the hand back down and gently shift your hips back to straighten the front leg.",
+        "Return to the lunge and repeat, then switch sides."
+      ],
+      "breathing": "Breathe out as you rotate and reach, and in as you return.",
+      "mistakes": [
+        "Rushing through the positions.",
+        "Sinking into the supporting shoulder.",
+        "Forcing the hamstring stretch."
+      ],
+      "easier": "Keep the back knee on the floor and place your hand on a book or block.",
+      "harder": "Hold each position for one slow breath.",
+      "cautions": [
+        "Move within a comfortable range for your hips and back."
+      ],
+      "mediaPath": "figure://worlds_greatest_stretch",
+      "tags": ["mobility", "hips", "upper back", "hamstrings", "flow"]
+    },
+    {
+      "id": "open_book",
+      "name": "Side-Lying Open Book",
+      "description": "Lying on your side and rotating your top arm open to improve upper-back rotation.",
+      "category": "mobility",
+      "difficulty": "beginner",
+      "primaryMuscles": ["upper_back"],
+      "secondaryMuscles": ["chest", "obliques"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 8,
+      "secondsPerRep": 5,
+      "perSide": true,
+      "setup": "Lie on your side with hips and knees bent to 90 degrees and arms straight out in front of you, palms together. Rest your head on a cushion.",
+      "steps": [
+        "Keep your knees together and on the floor.",
+        "Lift your top arm and sweep it over your body, rotating your chest toward the ceiling.",
+        "Let your head follow your hand and open the arm as far as is comfortable.",
+        "Bring the arm back to close the book. Repeat, then switch sides."
+      ],
+      "breathing": "Breathe out as you open and in as you close.",
+      "mistakes": [
+        "Letting the knees separate.",
+        "Forcing the arm down toward the floor.",
+        "Holding the breath."
+      ],
+      "easier": "Rotate only part of the way.",
+      "harder": "Pause for a full breath in the open position.",
+      "cautions": [
+        "Keep the range comfortable for your shoulder."
+      ],
+      "mediaPath": "figure://open_book",
+      "tags": ["mobility", "upper back", "rotation", "floor", "posture"]
+    },
+    {
+      "id": "thread_the_needle",
+      "name": "Thread the Needle",
+      "description": "A kneeling twist that slides one arm under the other to mobilise the upper back and shoulders.",
+      "category": "mobility",
+      "difficulty": "beginner",
+      "primaryMuscles": ["upper_back"],
+      "secondaryMuscles": ["shoulders"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultDurationSeconds": 30,
+      "defaultReps": 6,
+      "secondsPerRep": 5,
+      "perSide": true,
+      "setup": "Start on hands and knees with hands under shoulders and knees under hips.",
+      "steps": [
+        "Lift one hand and reach it toward the ceiling, rotating your chest open.",
+        "Sweep the arm down and slide it under the other arm, palm facing up.",
+        "Lower that shoulder and the side of your head gently toward the floor.",
+        "Pause, then return. Repeat, then switch sides."
+      ],
+      "breathing": "Breathe in as you open up and out as you thread through.",
+      "mistakes": [
+        "Shifting the hips to the side.",
+        "Putting weight on the neck.",
+        "Rushing through the movement."
+      ],
+      "easier": "Skip the upward reach and thread through only partway.",
+      "harder": "Hold the threaded position for two slow breaths.",
+      "cautions": [
+        "Avoid putting weight on your head or neck."
+      ],
+      "mediaPath": "figure://thread_the_needle",
+      "tags": ["mobility", "upper back", "shoulders", "quadruped", "stretch"]
+    },
+    {
+      "id": "ninety_ninety_switch",
+      "name": "90/90 Hip Switch",
+      "description": "Rotating both knees from side to side while seated to improve hip rotation.",
+      "category": "mobility",
+      "difficulty": "intermediate",
+      "primaryMuscles": ["glutes", "hip_flexors"],
+      "secondaryMuscles": ["adductors", "abductors"],
+      "equipment": [],
+      "matRecommended": true,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 10,
+      "secondsPerRep": 4,
+      "perSide": false,
+      "setup": "Sit on the floor with knees bent and feet wider than hip-width. Place your hands behind you for support.",
+      "steps": [
+        "Let both knees fall to one side so each knee forms roughly a right angle.",
+        "Sit tall as you settle into the position.",
+        "Lift the knees and rotate them over to the other side.",
+        "Move slowly and only as far as is comfortable. Each side counts as one repetition."
+      ],
+      "breathing": "Breathe slowly, breathing out as the knees settle.",
+      "mistakes": [
+        "Forcing the knees down to the floor.",
+        "Slumping backward.",
+        "Moving quickly."
+      ],
+      "easier": "Keep your feet wider and lean back on your hands.",
+      "harder": "Sit tall with your hands off the floor.",
+      "cautions": [
+        "Stop if you feel pinching in the hips or pain in the knees."
+      ],
+      "mediaPath": "figure://ninety_ninety_switch",
+      "tags": ["mobility", "hips", "seated", "floor", "rotation"]
+    },
+    {
+      "id": "ankle_rock",
+      "name": "Knee-to-Wall Ankle Rock",
+      "description": "Gently rocking the knee toward a wall to improve ankle bend, which helps with squats and lunges.",
+      "category": "mobility",
+      "difficulty": "beginner",
+      "primaryMuscles": ["calves"],
+      "secondaryMuscles": [],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 10,
+      "secondsPerRep": 3,
+      "perSide": true,
+      "setup": "Face a wall in a staggered stance or half-kneeling position with your front foot a few centimetres from the wall. Rest your hands on the wall.",
+      "steps": [
+        "Keep your front heel on the floor.",
+        "Rock your front knee forward toward the wall, in line with your second toe.",
+        "Pause briefly, then rock back.",
+        "Repeat, then switch legs."
+      ],
+      "breathing": "Breathe naturally.",
+      "mistakes": [
+        "Lifting the heel.",
+        "Letting the knee collapse inward.",
+        "Bouncing in and out of the position."
+      ],
+      "easier": "Move your foot closer to the wall.",
+      "harder": "Move your foot slightly further from the wall.",
+      "cautions": [
+        "You should feel a stretch in the calf or ankle, never a sharp pain."
+      ],
+      "mediaPath": "figure://ankle_rock",
+      "tags": ["mobility", "ankles", "calves", "wall", "squat prep"]
+    },
+    {
+      "id": "wall_angel",
+      "name": "Wall Angel",
+      "description": "Sliding the arms up and down a wall to mobilise the shoulders and wake up the upper back.",
+      "category": "mobility",
+      "difficulty": "beginner",
+      "primaryMuscles": ["upper_back", "shoulders"],
+      "secondaryMuscles": ["abs"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "reps",
+      "defaultReps": 10,
+      "secondsPerRep": 4,
+      "perSide": false,
+      "setup": "Stand with your back against a wall and your feet a short step away from it. Place your arms against the wall with elbows bent at 90 degrees, like a goalpost.",
+      "steps": [
+        "Keep your lower back gently in contact with the wall and your ribs down.",
+        "Slide your arms up the wall as far as you can while keeping contact.",
+        "Slide them back down to the goalpost position.",
+        "Move slowly and smoothly."
+      ],
+      "breathing": "Breathe out as you slide up and in as you slide down.",
+      "mistakes": [
+        "Arching the lower back away from the wall.",
+        "Shrugging.",
+        "Forcing the hands to stay on the wall when your range is limited."
+      ],
+      "easier": "Step your feet further from the wall and reduce the range.",
+      "harder": "Hold the top position for two seconds.",
+      "cautions": [
+        "Work within a comfortable shoulder range."
+      ],
+      "mediaPath": "figure://wall_angel",
+      "tags": ["mobility", "shoulders", "posture", "upper back", "wall", "desk break"]
+    },
+    {
+      "id": "deep_squat_hold",
+      "name": "Supported Deep Squat Hold",
+      "description": "Resting in a deep squat while holding onto support to improve hip and ankle mobility.",
+      "category": "mobility",
+      "difficulty": "beginner",
+      "primaryMuscles": ["adductors", "glutes"],
+      "secondaryMuscles": ["calves", "lower_back"],
+      "equipment": [],
+      "matRecommended": false,
+      "lowImpact": true,
+      "execution": "timed",
+      "defaultDurationSeconds": 30,
+      "perSide": false,
+      "setup": "Stand facing a door frame or a sturdy piece of furniture, feet a little wider than shoulder-width and toes turned out. Hold the support with both hands.",
+      "steps": [
+        "Lower slowly into a deep squat, using the support to control the descent.",
+        "Let your hips sink between your heels and keep your chest lifted.",
+        "Relax into the position while keeping your knees in line with your toes.",
+        "Hold and breathe, then use the support to stand up."
+      ],
+      "breathing": "Breathe slowly and deeply as you relax into the position.",
+      "mistakes": [
+        "Letting the heels lift (place a folded towel under them if needed).",
+        "Rounding the back heavily.",
+        "Forcing depth."
+      ],
+      "easier": "Squat only partway, or sit on a low stool.",
+      "harder": "Hold the squat without support.",
+      "cautions": [
+        "Avoid this exercise if deep knee bending is painful.",
+        "Stand up slowly to avoid feeling dizzy."
+      ],
+      "mediaPath": "figure://deep_squat_hold",
+      "tags": ["mobility", "hips", "ankles", "squat", "beginner"]
+    }
+  ]
+}
